@@ -1,0 +1,211 @@
+﻿Title,Authors,DOI,DOI link,Venue,Citation count,Year,Summary,Metrics,"Supporting quotes for ""Summary""","Supporting tables for ""Summary""","Reasoning for ""Summary""","Supporting quotes for ""Metrics""","Supporting tables for ""Metrics""","Reasoning for ""Metrics"""
+Models of IT Projects KPIs and Metrics,"Volodymyr Ostakhov, Nadiia Artykulna, V. Morozov",10.1109/DSMP.2018.8478464,https://doi.org/10.1109/DSMP.2018.8478464,International Conference on Data Stream Mining & Processing,2,2018,Proposed models for KPIs and metrics for IT projects; no specific metrics or empirical evidence mentioned.,Not mentioned (the abstract does not specify the metrics used),"  - ""A comprehensive KPI and metrics model is proposed for IT project team.""
+  - ""Models of key performance indicators (KPI) and methods for their measurement based on metrics for IT projects are proposed for consideration.""",,"- The abstract mentions the proposal of models for key performance indicators (KPIs) and metrics for IT projects, which directly relates to the research question about key metrics used to measure success in IT project management.
+- The abstract does not provide specific details about the metrics or KPIs, nor does it mention any empirical evidence or methodology used to derive these models.
+- The focus is on proposing a comprehensive model for IT project teams, which suggests a theoretical or conceptual contribution rather than empirical evidence.","  - ""A comprehensive KPI and metrics model is proposed for IT project team.""
+  - ""Models of key performance indicators (KPI) and methods for their measurement based on metrics for IT projects are proposed for consideration.""",,"- The abstract mentions ""methods for their measurement based on metrics for IT projects,"" indicating that the paper discusses metrics used in IT projects.
+- The phrase ""A comprehensive KPI and metrics model is proposed for IT project team"" suggests that the paper includes a model that incorporates metrics, but it does not specify what these metrics are.
+- The abstract does not provide specific details about the metrics used; it only mentions that metrics are part of the proposed model."
+What is the measurement of the IT project success?,"Endang Sulistiyani, Sasmi Hidayatul Yulianing Tyas",10.1016/j.procs.2021.12.142,https://doi.org/10.1016/j.procs.2021.12.142,Procedia Computer Science,6,2022,"- Main finding: Technical, stakeholder acceptance, product quality, and organizational benefits are key metrics for measuring IT project success.
+- Strength of evidence: Quantitative validation; 78.73% variability explained by these metrics.
+- Methodology: Literature review, compilation of IT project success models, and quantitative validation.","- Technical
+- Stakeholder acceptance
+- Product quality
+- Organizational benefits","  - ""The definition of IT projects success is shifting.""
+  - ""the current measurement framework still has a specific focus and is not comprehensive.""
+  - ""this study aims to prove the dimensions of the overall success of IT projects.""
+  - ""The variability of IT project success can be explained 78.73% by the project's technical, stakeholder acceptance, product quality, and organizational benefits.""
+  - ""Product quality has significant positive effect on the IT Project Success variable.""
+  - ""The other dimensions have insignificant positive effects.""",,"- The abstract discusses the shifting definition of IT project success and the limitations of current measurement frameworks, indicating a need for a more comprehensive approach.
+- The study aims to identify the dimensions of overall IT project success, which aligns with the research question about key metrics for measuring success.
+- The abstract provides specific metrics that explain the variability of IT project success: technical, stakeholder acceptance, product quality, and organizational benefits. These are key metrics used to measure success.
+- The study uses a quantitative approach, which is a methodological strength.
+- The abstract does not provide information on the number of participants or studies, but it does mention a quantitative validation, which suggests some level of empirical evidence.","  - ""The definition of IT projects success is shifting.""
+  - ""the current measurement framework still has a specific focus and is not comprehensive.""
+  - ""this study aims to prove the dimensions of the overall success of IT projects.""
+  - ""The variability of IT project success can be explained 78.73% by the project's technical, stakeholder acceptance, product quality, and organizational benefits.""
+  - ""Product quality has significant positive effect on the IT Project Success variable.""
+  - ""The other dimensions have insignificant positive effects.""",,"- The abstract discusses the measurement of IT project success, which implies the use of metrics to evaluate success.
+- The study aims to identify dimensions of overall success, suggesting that these dimensions are part of the metrics used.
+- The abstract mentions specific dimensions: technical, stakeholder acceptance, product quality, and organizational benefits, which are likely part of the metrics.
+- The mention of these dimensions explaining 78.73% of the variability in IT project success suggests they are key metrics used in the study.
+- The focus on product quality having a significant positive effect indicates it is a specific metric used to measure success."
+Information Technology Project Management and Project Success,A. Peslak,10.4018/jitpm.2012070103,https://doi.org/10.4018/jitpm.2012070103,International Journal of Information Technology Project Management,17,2012,Skilled project measurement and absence of restrictions on IT application development are key metrics for higher IT project success; positive relationship with overall IT returns. Large secondary data sample set used for analysis.,"- Survey responses from financial executives
+- Skilled project measurement
+- Restrictions on IT application development
+- Overall IT returns","  - ""Restrictions on IT application development were found to correlate to lower IT project success.""
+  - ""Skilled project measurement was found to result in higher IT project success.""
+  - ""This study reviews a survey of financial executives and examines their views on aspects of project management and project success.""
+  - ""a significant positive relationship was found between the IT project success and overall IT returns.""
+  - ""The paper studies a large secondary data sample set, which empirically reviews corporations' experiences with project management.""",,"- The abstract discusses the success of IT projects and factors influencing this success, which is relevant to the research question about key metrics for measuring success in IT project management.
+- The main finding is that skilled project measurement leads to higher success, and restrictions on IT application development correlate with lower success. Additionally, there is a positive relationship between project success and overall IT returns.
+- The strength of the evidence is indicated by the use of a ""large secondary data sample set,"" suggesting a robust dataset.
+- The methodology involves reviewing a survey of financial executives and analyzing secondary data, which provides insights into corporate experiences with project management.","  - ""This study reviews a survey of financial executives and examines their views on aspects of project management and project success.""
+  - ""Skilled project measurement was found to result in higher IT project success.""
+  - ""Restrictions on IT application development were found to correlate to lower IT project success.""
+  - ""The most important project consideration did not affect project success.""
+  - ""a significant positive relationship was found between the IT project success and overall IT returns.""
+  - ""The paper studies a large secondary data sample set, which empirically reviews corporations' experiences with project management.""",,"- The abstract mentions that the study reviews a survey of financial executives, which suggests that the metrics used might include survey responses or data collected from these executives.
+- The mention of ""skilled project measurement"" implies that some form of measurement or evaluation was used to assess project success, which could be considered a metric.
+- The correlation between restrictions on IT application development and lower project success suggests that these restrictions might be measured or quantified in some way, potentially as a metric.
+- The positive relationship between IT project success and overall IT returns indicates that financial returns might be used as a metric to evaluate project success.
+- The study's use of a ""large secondary data sample set"" suggests that existing data was analyzed, which could include various metrics related to project management and success."
+Project Management in the Information Systems and Information Technologies Industries,"Francis T. Hartman, R. Ashrafi",10.1177/875697280203300303,https://doi.org/10.1177/875697280203300303,-,230,2002,"The study identifies the need to manage stakeholder expectations and align project metrics with corporate strategy as key metrics for measuring success in IT project management, based on a survey of 36 participants across 12 projects.",Not mentioned (the abstract does not specify the metrics used),"  - ""An important finding of this study is the critical need to identify and manage realistic expectations of the stakeholders to achieve perceived project success.""
+  - ""the authors have developed an approach that links project critical success factors (CSFs) to corporate strategy, and project metrics to the CSFs.""
+  - ""The empirical results address answers to questions related to success, performance metrics, and project business drivers.""
+  - ""Current literature indicates that most of the software project problems are related to management, organizational, human, and cultural issues—not technical problems.""
+  - ""The results of this study also are compared with others that span seven additional industry sectors.""",,"- The abstract discusses the challenges in software project management, highlighting that most problems are non-technical, which is relevant to understanding the broader context of IT project management.
+- The study provides empirical results related to success and performance metrics, which directly addresses the research question about key metrics used to measure success in IT project management.
+- The study involves a survey of 36 software owners/sponsors, contractors/suppliers, and consultants on 12 projects, which provides some insight into the strength of the evidence.
+- The methodology involves a survey and comparison with other industry sectors, indicating a structured approach to gathering data.
+- The main finding emphasizes the need to manage stakeholder expectations and align project metrics with corporate strategy, which are key metrics for measuring success.","  - ""the authors have developed an approach that links project critical success factors (CSFs) to corporate strategy, and project metrics to the CSFs.""
+  - ""The empirical results address answers to questions related to success, performance metrics, and project business drivers.""",,"- The abstract mentions ""performance metrics"" as part of the empirical results, indicating that metrics related to performance were considered in the study.
+- It also mentions that the authors developed an approach that links ""project metrics to the CSFs,"" suggesting that metrics were used to measure critical success factors.
+- However, the abstract does not specify what these metrics are; it only indicates that they were part of the study and were linked to critical success factors."
+ОГЛЯД МЕТРИК ТА АНАЛІЗ ЇХНЬОГО ВИКОРИСТАННЯ ПРИ ОЦІНЦІ ЕФЕКТИВНОСТІ IT-ПРОЕКТІВ,"M. Andryukhina, Galina Yevtushenko, Vladimir Kyznecov",10.34185/1562-9945-2-127-2020-06,https://doi.org/10.34185/1562-9945-2-127-2020-06,-,0,2020,"The paper discusses the lack of a single model for evaluating IT project effectiveness and proposes a generalized system of interconnected metrics, highlighting main indicators and modern metrics used by major IT companies, with a focus on practical application.","- Main indicators in assessing IT project effectiveness
+- Modern metrics used by major IT companies
+- Metric hierarchy related to BOCR methodology
+- Proposed metrics for generalized indicators in IT companies","  - ""The problem in the mainstream visionary is no single model for evaluating the effectiveness of an IT project.""
+  - ""The purpose of this article is to study various aspects in assessing the effectiveness of an IT project and building a generalized system of interconnected metrics,""
+  - ""The article highlights the main indicators in assessing the effectiveness of IT projects.""
+  - ""Data collected on modern metrics that are successfully used by major IT companies.""
+  - ""The concept of ""metric hierarchy"" is described, a relation with the hierarchy of BOCR methodology used to performance evaluation is shown.The""
+  - ""The proposed metrics for generalized indicators that are successfully used in the practice of IT-companies.""
+  - ""Arguments are given regarding the use of the proposed metrics in real management in IT companies.Conclusions""",,"- The paper discusses the lack of a single model for evaluating IT project effectiveness, which is a key issue in IT project management.
+- It aims to study various aspects of assessing IT project effectiveness and proposes a generalized system of interconnected metrics.
+- The paper highlights main indicators and modern metrics used by major IT companies, indicating a focus on identifying key metrics.
+- The concept of ""metric hierarchy"" and its relation to BOCR methodology suggests a structured approach to evaluating performance.
+- The paper provides arguments for the use of proposed metrics in real IT management, indicating practical relevance.","  - ""The article highlights the main indicators in assessing the effectiveness of IT projects.""
+  - ""Data collected on modern metrics that are successfully used by major IT companies.""
+  - ""The concept of ""metric hierarchy"" is described, a relation with the hierarchy of BOCR methodology used to performance evaluation is shown.The""
+  - ""The review of modern metrics in the IT industry was carried out and the problem of selecting successful metrics was considered, which in total will most fully describe the main aspects of the effectiveness of IT projects.The""
+  - ""The proposed metrics for generalized indicators that are successfully used in the practice of IT-companies.""
+  - ""Arguments are given regarding the use of the proposed metrics in real management in IT companies.Conclusions""","  - ""(Page 11, Table 1) ""","- The paper discusses the lack of a single model for evaluating IT project effectiveness, indicating a focus on metrics.
+- It mentions the collection of data on modern metrics used by major IT companies, suggesting these are the metrics being referred to.
+- The concept of ""metric hierarchy"" and its relation to BOCR methodology is highlighted, which implies these are part of the metrics discussed.
+- The paper reviews modern metrics in the IT industry and considers the selection of successful metrics, indicating these are the metrics in question.
+- The proposed metrics are described as being used in real management, suggesting they are practical and applied metrics.
+- The table on page 11 is likely to contain specific metrics or examples, but without content, it's impossible to specify what these metrics are."
+Success Measurement Framework for Information Technology Project: a Conceptual Model,"Endang Sulistiyani, Sasmi Hidayatul Yulianing Tyas",10.1109/ICOMITEE.2019.8921174,https://doi.org/10.1109/ICOMITEE.2019.8921174,"2019 International Conference on Computer Science, Information Technology, and Electrical Engineering (ICOMITEE)",5,2019,"- Main finding: Four dimensions to measure IT project success are project technical (time, cost, scope), stakeholder acceptance (perceived usefulness, ease of use), product quality (system, information, service quality), and organizational benefits (financial, customer, internal business, learning and growth).
+- Strength of evidence: 69% of respondents agreed with the combined framework.
+- Methodology: Literature review, framework development, and validation through a questionnaire.","- Project Technical: Time, Cost, Scope; CPI, EV, AC, SPI
+- Stakeholder Acceptance: Perceived Usefulness, Perceived Ease of Use; Questionnaires
+- Product Quality: System Quality, Information Quality, Service Quality; Technical Verification, Questionnaires
+- Organizational Benefits: Financial, Customer, Internal Business, Learning and Growth; Annual Reports","  - ""The result found four dimensions to measure the success of IT projects, namely project technical, stakeholder acceptance, product quality, and organizational benefits.""
+  - ""Project technical dimension is the definition of success of IT projects in terms of project management (technical). The important thing that covered in this dimension is time, cost, and scope of the project.""
+  - ""The second dimension is stakeholder acceptance that defines success of the project in terms of output acceptance by the project stakeholders.""
+  - ""Dimensions of the product quality with regard to the performance of the system as a product of IT project.""
+  - ""The most fundamental dimension of success is organizational benefits. The success of the project are based on these dimensions can be seen from the improvement of the organization's business performance.""
+  - ""There are 4 levels of success depending on the fulfilment of the measure of each dimension.""
+  - ""Based on model validation, all of framework elements can be mapped to the success definition of an IT project.""
+  - ""There are 69% of respondents stated their agreement with the combined framework proposed.""",,"- The paper identifies four key dimensions for measuring IT project success: project technical, stakeholder acceptance, product quality, and organizational benefits.
+- Each dimension is further detailed with specific metrics: project technical includes time, cost, and scope; stakeholder acceptance involves perceived usefulness and ease of use; product quality includes system, information, and service quality; and organizational benefits are measured from financial, customer, internal business, and learning and growth perspectives.
+- The paper also mentions four levels of success based on these dimensions, indicating a structured approach to measuring success.
+- The framework was validated with a significant agreement from respondents (69%), suggesting a strong evidence base for the proposed metrics.
+- The methodology involved literature review, framework development, and validation through a questionnaire, which provides a comprehensive approach to identifying key metrics.","  - ""The result found four dimensions to measure the success of IT projects, namely project technical, stakeholder acceptance, product quality, and organizational benefits.""
+  - ""Project technical dimension is the definition of success of IT projects in terms of project management (technical). The important thing that covered in this dimension is time, cost, and scope of the project.""
+  - ""The second dimension is stakeholder acceptance that defines success of the project in terms of output acceptance by the project stakeholders.""
+  - ""Dimensions of the product quality with regard to the performance of the system as a product of IT project.""
+  - ""The most fundamental dimension of success is organizational benefits. The success of the project are based on these dimensions can be seen from the improvement of the organization's business performance.""
+  - ""Cost is a criteria to measure the success of the suitability of the use of the cost for the project from the initial budget. The measurement used to look at the suitability of the cost is the CPI, EV, AC.""
+  - ""Time is a criteria to measure the timeliness project. The measurement used is SPI (which is the ratio between the EV and PV).""
+  - ""Quality as project success criteria relating to the fulfillment of the scope (on scope). Testing the system using a test case is used as a measure of compliance with the specifications of system functions.""
+  - ""Measurements of success in this dimension can be done with quantitative methods using questionnaires.""
+  - ""Measurement of organizational performance can be seen from the annual report was generated. A series of financial information can be measured by looking at the balance sheet related organizations; both profit, revenue, or return on investment.""
+  - ""The organizational benefit dimension is seen from 4 perspectives, namely: financial, customer, internal business, and learning and growth.""",,"- The paper identifies four dimensions for measuring IT project success: project technical, stakeholder acceptance, product quality, and organizational benefits.
+- For the project technical dimension, metrics include time, cost, and scope, with specific measures like CPI (Cost Performance Index), EV (Earned Value), AC (Actual Cost), and SPI (Schedule Performance Index).
+- Stakeholder acceptance is measured through perceived usefulness and perceived ease of use, likely using questionnaires.
+- Product quality is assessed through system, information, and service quality, with technical verification and questionnaires.
+- Organizational benefits are evaluated from financial, customer, internal business, and learning and growth perspectives, using financial data from annual reports."
+IT Project Management Metrics,Paul Pocatilu,-,-,-,16,2007,Metrics and indicators are used to measure success in IT project management by comparing with past projects to avoid failure.,Not mentioned (the abstract does not specify what metrics are used),"  - ""In order to have successfully projects, lessons learned have to be used, historical data to be collected and metrics and indicators have to be computed and used to compare them with past projects and avoid failure to happen.""
+  - ""This paper presents some metrics that can be used for the IT project management.""
+  - ""Many software and IT projects fail in completing theirs objectives because different causes of which the management of the projects has a high weight.""",,"- The abstract discusses the failure of IT projects due to management issues, which is relevant to understanding the context of IT project management.
+- It mentions the importance of using lessons learned, historical data, and metrics to ensure project success, which aligns with the research question about key metrics for measuring success.
+- The abstract states that the paper presents some metrics for IT project management, which directly addresses the research question about key metrics.
+- However, the abstract does not specify what these metrics are or provide any details about their effectiveness or the strength of the evidence supporting them.
+- The methodology is not explicitly mentioned in the abstract, but it implies a focus on presenting metrics rather than conducting a study or analysis.","  - ""This paper presents some metrics that can be used for the IT project management.""",,"- The abstract mentions that the paper presents ""some metrics that can be used for the IT project management."" This indicates that the paper discusses specific metrics used in IT project management.
+- The abstract does not specify what these metrics are, only that they are presented in the paper.
+- The focus of the question is on identifying the metrics used, but the abstract does not provide a list or description of these metrics."
+A Study Case about a Software Project Management Success Metrics,"Rogério T. O. Lacerda, L. Ensslin, S. Ensslin",10.1109/SEW.2009.14,https://doi.org/10.1109/SEW.2009.14,2009 33rd Annual IEEE Software Engineering Workshop,12,2009,"Traditional metrics (cost, time, quality) are challenged; new methodology includes effectiveness and strategic alignment for comprehensive success measurement.","- Traditional metrics: cost, time, quality
+- Proposed additional metrics: effectiveness, strategic alignment","  - ""For years, the success of a project is measured using the cost, time and quality, but to restrict the assessment in these dimensions for the evaluation of success of the Project Management has been challenged both by the academic community and by practitioners.""
+  - ""Differences emerge from the fact that these criteria are restricted to efficiency, while the results of the project are evaluated in a more comprehensive way, including effectiveness and strategic alignment.""
+  - ""The objective of this research is to propose a methodology for identification, measurement and integration of those aspects that explain quantitatively what success is in the perspective of decision-makers in a developing software corporation.""",,"- The abstract discusses the traditional metrics used to measure project success (cost, time, quality) and notes that these are limited because they focus only on efficiency.
+- It highlights that these traditional metrics are being challenged by both academics and practitioners, suggesting a need for broader metrics.
+- The research aims to propose a new methodology that includes effectiveness and strategic alignment, which are considered more comprehensive metrics for success.
+- The abstract does not specify the exact metrics used in the proposed methodology but indicates a shift towards more inclusive measures beyond the traditional ones.","  - ""the success of a project is measured using the cost, time and quality,""
+  - ""to propose a methodology for identification, measurement and integration of those aspects that explain quantitatively what success is in the perspective of decision-makers""
+  - ""these criteria are restricted to efficiency, while the results of the project are evaluated in a more comprehensive way, including effectiveness and strategic alignment.""
+  - ""to restrict the assessment in these dimensions for the evaluation of success of the Project Management has been challenged""",,"- The abstract mentions that traditional metrics for measuring project success are ""cost, time and quality."" These are the conventional metrics used in project management.
+- It is noted that these traditional metrics are challenged because they only focus on efficiency, suggesting that they are not comprehensive enough.
+- The abstract suggests that the study aims to propose a new methodology that includes ""effectiveness and strategic alignment"" as additional metrics for evaluating project success.
+- The focus is on developing a methodology that quantitatively explains what success means to decision-makers, indicating that the metrics used are broader than just cost, time, and quality."
+Performance indicators in software project monitoring: Balanced scorecard approach,"Ljubica Kazi, B. Radulovic, Z. Kazi",10.1109/SISY.2012.6339539,https://doi.org/10.1109/SISY.2012.6339539,2012 IEEE 10th Jubilee International Symposium on Intelligent Systems and Informatics,7,2012,Key performance indicators are defined for software project success monitoring using a framework based on PRINCE2 and balanced scorecard.,Key performance indicators based on PRINCE2 methodology and balanced scorecard approach,"  - ""Key performance indicators as measures to be performed upon data collected during software project implementation are defined.""
+  - ""Framework for software project success monitoring, based on PRINCE2 methodology and balanced scorecard is proposed.""
+  - ""Balanced scorecard is one of most used methodologies for performance measurement in enterprises and non-profit organizations.""",,"- The abstract discusses the use of the balanced scorecard methodology for performance measurement, which is relevant to measuring success in IT project management.
+- It mentions the proposal of a framework for software project success monitoring, which implies that key metrics are being defined for this purpose.
+- The abstract specifically states that key performance indicators are defined, which are measures used to evaluate success in software projects.
+- However, the abstract does not specify what these key performance indicators are, only that they are defined.
+- The strength of the evidence is not mentioned in the abstract, as it does not provide details on the number of participants or studies.
+- The methodology involves using the PRINCE2 methodology and balanced scorecard, which are established frameworks for project management and performance measurement.","  - ""Framework for software project success monitoring, based on PRINCE2 methodology and balanced scorecard is proposed.""
+  - ""Key performance indicators as measures to be performed upon data collected during software project implementation are defined.""
+  - ""analytics to be performed upon data according to specified key performance indicators, needed for decision support is enabled.""
+  - ""These monitoring systems are based on collecting data and analysis of these data.""
+  - ""Balanced scorecard is one of most used methodologies for performance measurement in enterprises and non-profit organizations.""
+  - ""It presents a general framework that has been applied more precisely by many scientists and practitioners.""",,"- The abstract mentions the use of the ""balanced scorecard"" as a methodology for performance measurement, which is a framework that includes various metrics for evaluation.
+- It refers to ""collecting data and analysis of these data,"" indicating that metrics are involved in the process of data collection and analysis.
+- The abstract specifically mentions ""key performance indicators"" as measures to be performed upon data collected during software project implementation. These indicators are essentially metrics used to evaluate project performance.
+- The mention of ""analytics to be performed upon data according to specified key performance indicators"" suggests that these metrics are used for decision support, further emphasizing their role as metrics in the study."
+Comprehensive IT Project Measurement Method,Arun Korath Sangheethaa S,10.21275/sr23405140843,https://doi.org/10.21275/sr23405140843,International Journal of Science and Research (IJSR),0,2023,"Key metrics used to measure success in IT project management include KPIs, Earned Value Management (EVM), Balanced Scorecard, Dashboard Reporting, and Root Cause Analysis (RCA).","- Key Performance Indicators (KPIs)
+- Earned Value Management (EVM) metrics:
+  - Planned Value (PV)
+  - Earned Value (EV)
+  - Actual Cost (AC)
+  - Cost Variance (CV)
+  - Schedule Variance (SV)
+  - Cost Performance Index (CPI)
+  - Schedule Performance Index (SPI)
+- Balanced Scorecard metrics:
+  - Financial Perspective
+  - Customer Perspective
+  - Internal Process Perspective
+  - Learning and Growth Perspective
+- Dashboard Reporting metrics:
+  - Project Schedule
+  - Project Budget","  - ""Key Performance Indicators (KPIs) in IT Project Management are metrics used to measure and evaluate the success of IT projects against specific objectives.""
+  - ""Earned Value Management (EVM) is a project management technique used to measure project progress, forecast project performance, and provide a more objective view of project performance.""
+  - ""The Balanced Scorecard is a strategic management tool that can be used in IT project management to align project goals with the organization's strategic objectives.""
+  - ""Dashboard reporting typically involves creating a graphical dashboard that displays project data in an easy -tounderstand format.""
+  - ""Root Cause Analysis (RCA) is a problem -solving technique used in IT project management to identify the underlying causes of project issues or failures.""
+  - ""The combination of KPIs, Balanced Scorecard, Dashboard Reporting, and Root Cause Analysis (RCA) can provide a powerful set of performance measurement tools for IT project management.""",,"- The paper discusses various metrics and tools used to measure success in IT project management, such as KPIs, EVM, Balanced Scorecard, Dashboard Reporting, and RCA.
+- These tools are highlighted as essential for evaluating project performance and making data-driven decisions.
+- The paper emphasizes the importance of a comprehensive approach that includes both traditional project management metrics and measures of business value and stakeholder satisfaction.
+- The strength of the evidence is not explicitly mentioned in terms of participants or studies, but the paper provides a detailed overview of methodologies and tools used in IT project management.
+- The methodology involves discussing different frameworks and tools used in IT project management, but it does not specify any empirical studies or data collection methods.","  - ""Key Performance Indicators (KPIs) in IT Project Management are metrics used to measure and evaluate the success of IT projects against specific objectives.""
+  - ""Earned Value Management (EVM) is a project management technique used to measure project progress, forecast project performance, and provide a more objective view of project performance.""
+  - ""The key components of EVM include:
+
+The planned value is the approved budget for the work scheduled to be completed in a given time period. PV is also known as the Budgeted Cost of Work Scheduled (BCWS).
+
+The earned value is the value of the work completed in a given time period. EV is also known as the Budgeted Cost of Work Performed (BCWP).
+
+The actual cost is the total cost incurred to date to complete the work scheduled. AC is also known as the Actual Cost of Work Performed (ACWP).""
+  - ""Using these components, EVM calculates several key metrics, including:
+
+Cost Variance (CV): CV measures the difference between the earned value and the actual cost. A positive value indicates that the project is under budget, while a negative value indicates that the project is over budget.
+
+Schedule Variance (SV): SV measures the difference between the earned value and the planned value. A positive value indicates that the project is ahead of schedule, while a negative value indicates that the project is behind schedule.
+
+Cost Performance Index (CPI): CPI measures the ratio of earned value to actual cost. A CPI greater than 1 indicates that the project is under budget, while a CPI less than 1 indicates that the project is over budget.
+
+Schedule Performance Index (SPI): SPI measures the ratio of earned value to planned value. An SPI greater than 1 indicates that the project is ahead of schedule, while an SPI less than 1 indicates that the project is behind schedule.""
+  - ""The Balanced Scorecard is a strategic management tool that can be used in IT project management to align project goals with the organization's strategic objectives.""
+  - ""The Balanced Scorecard consists of four perspectives, which are financial, customer, internal process, and learning and growth.""
+  - ""Dashboard reporting typically involves creating a graphical dashboard that displays project data in an easy -tounderstand format.""
+  - ""Examples of KPIs that might be included in an IT project management dashboard include: 1) Project schedule: The dashboard might show the current status of the project schedule, including planned versus actual start and end dates, critical path analysis, and other schedule -related KPIs. 2) Project budget: The dashboard might show the current status of the project budget, including planned versus actual costs, cost variances, and other budget -related KPIs.""
+  - ""KPIs provide specific metrics to track project performance against specific objectives, such as meeting project timelines or staying within budget constraints.""
+  - ""The Balanced Scorecard approach takes a more holistic view of project performance by evaluating project success across multiple dimensions, such as financial, customer, internal business process, and learning and growth.""",,"- The paper discusses various metrics used in IT project management, starting with Key Performance Indicators (KPIs) which are used to measure project success against specific objectives.
+- Earned Value Management (EVM) is highlighted as a technique that uses metrics like planned value, earned value, and actual cost to measure project progress and performance.
+- Specific EVM metrics include Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule Performance Index (SPI), which are used to assess budget and schedule performance.
+- The Balanced Scorecard is mentioned as a tool that aligns project goals with organizational objectives, using four perspectives: financial, customer, internal process, and learning and growth.
+- Dashboard reporting is discussed as a method to visually display project data, including KPIs related to project schedule and budget.
+- The paper emphasizes the use of KPIs and the Balanced Scorecard to provide a comprehensive view of project performance."

@@ -1,0 +1,1005 @@
+arXiv:2510.07297  [pdf, ps, other]  cs.AI
+Agentic generative AI for media content discovery at the national football league
+
+Authors: Henry Wang, Sirajus Salekin, Jake Lee, Ross Claytor, Shinan Zhang, Michael Chi
+
+Abstract: Generative AI has unlocked new possibilities in content discovery and management. Through collaboration with the National Football League (NFL), we demonstrate how a generative-AI based workflow enables media researchers and analysts to query relevant historical plays using natural language rather than traditional filter-and-click interfaces. The agentic wor… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+Comments: 13 pages, 7 figures, International Sports Analytics Conference and Exhibition
+
+arXiv:2510.07292  [pdf, ps, other]  cs.NI eess.SY
+A Genetic Algorithm Approach to Anti-Jamming UAV Swarm Behavior
+
+Authors: Tiago Silva, António Grilo
+
+Abstract: …routing in order to mitigate the effect of jamming in the main coordination channel, under the assumption that a more robust and low data rate channel is used for formation management signaling. Simulation results show the effectiveness of proposed approach. However, the significant computational cost paves the way for further research. ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+Comments: 8 pages, conference paper
+
+arXiv:2510.07231  [pdf, ps, other]  cs.CL cs.AI
+Benchmarking LLM Causal Reasoning with Scientifically Validated Relationships
+
+Authors: Donggyu Lee, Sungwon Park, Yerin Hwang, Hyunwoo Oh, Hyoshin Kim, Jungwon Kim, Meeyoung Cha, Sangyoon Park, Jihee Kim
+
+Abstract: …such as reliance on synthetic data and narrow domain coverage. We introduce a novel benchmark constructed from casually identified relationships extracted from top-tier economics and finance journals, drawing on rigorous methodologies including instrumental variables, difference-in-differences, and regression discontinuity designs. Our benchmark comprises 40… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07109  [pdf, ps, other]  cs.CR cs.LG cs.NI
+GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics
+
+Authors: Guan-Yan Yang, Farn Wang, Kuo-Hui Yeh
+
+Abstract: …systems exhibit high accuracy in traditional network environments but are often overly complex and reliant on static infrastructure, necessitating manual configuration and management. To address these limitations, we propose a scalable network model that integrates Software-defined Networking (SDN) and Compute First Networking (CFN) for next-generation CE ne… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+Comments: This paper has been accepted for publication in IEEE Transactions on Consumer Electronics. 10 pages, 6 figures
+
+ACM Class: C.2.0; C.2.1; C.2.3; C.2.5; I.2.6; K.6.5
+
+arXiv:2510.07101  [pdf, ps, other]  cond-mat.stat-mech cs.GT
+Data as Commodity: a Game-Theoretic Principle for Information Pricing
+
+Authors: Pasquale Casaburi, Giovanni Piccioli, Pierpaolo Vivo
+
+Abstract: …of the game, we determine the price range where the trade is beneficial to both buyer and seller. We uncover a rich landscape of market effects that diverge from textbook economics: first, prospective sellers and buyers can compete or jointly exploit the less informed competitors depending on the quality of data they hold. In a symbiotic regime, the seller c… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07099  [pdf, ps, other]  stat.ML cs.CE cs.LG q-fin.CP
+Diffusion-Augmented Reinforcement Learning for Robust Portfolio Optimization under Stress Scenarios
+
+Authors: Himanshu Choudhary, Arishi Orra, Manoj Thakur
+
+Abstract: In the ever-changing and intricate landscape of financial markets, portfolio optimisation remains a formidable challenge for investors and asset managers. Conventional methods often struggle to capture the complex dynamics of market behaviour and align with diverse investor preferences. To address this, we propose an innovative framework, termed Diffusion-Au… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07073  [pdf, ps, other]  cs.AI
+VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems
+
+Authors: André Hottung, Federico Berto, Chuanbo Hua, Nayeli Gast Zepeda, Daniel Wetzel, Michael Römer, Haoran Ye, Davide Zago, Michael Poli, Stefano Massaroli, Jinkyoo Park, Kevin Tierney
+
+Abstract: …refines them through a novel genetic search. By using the LLM to generate problem-specific operators, embedded within a generic metaheuristic framework, VRPAgent keeps tasks manageable, guarantees correctness, and still enables the discovery of novel and powerful strategies. Across multiple problems, including the capacitated VRP, the VRP with time windows,… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07071  [pdf, ps, other]  cs.LG
+Blind Construction of Angular Power Maps in Massive MIMO Networks
+
+Authors: Zheng Xing, Junting Chen
+
+Abstract: …information (CSI) acquisition is a challenging problem in massive multiple-input multiple-output (MIMO) networks. Radio maps provide a promising solution for radio resource management by reducing online CSI acquisition. However, conventional approaches for radio map construction require location-labeled CSI data, which is challenging in practice. This paper… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07047  [pdf]  econ.GN 
+doi
+10.29119/1641-3466.2025.228.10
+Analysis of managerial behaviors in business management
+
+Authors: Ernest Górka, Dariusz Baran, Michał Ćwiąkała, Gabriela Wojak, Robert Marszczuk, Katarzyna Olszyńska, Piotr Mrzygłód, Maciej Frasunkiewicz, Piotr Ręczajski, Kamil Saługa, Maciej Ślusarczyk, Jan Piwnik
+
+Abstract: This study explores how different managerial behaviors influence team effectiveness and organizational outcomes, using Kenneth Blanchard's situational leadership model as a diagnostic tool. Conducted across ten companies, the research evaluates leadership adaptability through a scenario-based questionnaire identifying instructional, teaching, supportive, and delegating styles. Results show that th… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07039  [pdf]  econ.GN
+Exchange for Growth: Currency Dynamics in Emerging Markets
+
+Authors: Shaunak Kulkarni, Rohan Ajay Dubey
+
+Abstract: …conflicting empirical evidence, we believe there are novel insights to be gained from a more nuanced approach incorporating theoretical frameworks from contemporary Monetary Economics in order to reconcile criticisms of the TDH with the basis for its broad applicability. The results from this paper thus investigate the link - or lack thereof - between real… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07016  [pdf]  econ.GN 
+doi
+10.29119/1641-3466.2025.228.1
+The role of communication in effective business management
+
+Authors: Dariusz Baran, Ernest Górka, Michał Ćwiąkała, Gabriela Wojak, Mateusz Grzelak, Katarzyna Olszyńska, Piotr Mrzygłód, Maciej Frasunkiewicz, Piotr Ręczajski, Maciej Ślusarczyk, Jan Piwnik
+
+Abstract: This paper examines the impact of internal communication on effective business management through a comparative analysis of two medium-sized car rental companies operating in Poland. Using a structured survey completed by 220 employees, the study evaluates 15 communication-related factors, including feedback culture, managerial accessibility, message clarity… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.07015  [pdf, ps, other]  cs.IT
+Lossless Compression of Time Series Data: A Comparative Study
+
+Authors: Jonas G. Matt, Pengcheng Huang, Balz Maag
+
+Abstract: Our increasingly digital and connected world has led to the generation of unprecedented amounts of data. This data must be efficiently managed, transmitted, and stored to preserve resources and allow scalability. Data compression has therein been a key technology for a long time, resulting in a vast landscape of available techniques. This largest-to-date stu… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06980  [pdf, ps, other]  cs.DB cs.LG
+Relational Database Distillation: From Structured Tables to Condensed Graph Data
+
+Authors: Xinyi Gao, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin
+
+Abstract: Relational databases (RDBs) underpin the majority of global data management systems, where information is structured into multiple interdependent tables. To effectively use the knowledge within RDBs for predictive tasks, recent advances leverage graph representation learning to capture complex inter-table relations as multi-hop dependencies. Despite achievin… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06936  [pdf, ps, other]  eess.SP cs.IT
+Sensing Management for Pilot-Free Predictive Beamforming in Cell-Free Massive MIMO Systems
+
+Authors: Eren Berk Kama, Murat Babek Salman, Isaac Skog, Emil Björnson
+
+Abstract: This paper introduces a sensing management method for integrated sensing and communications (ISAC) in cell-free massive multiple-input multiple-output (MIMO) systems. Conventional communication systems employ channel estimation procedures that impose significant overhead during data transmission, consuming resources that could otherwise be utilized for data.… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06903  [pdf, ps, other]  econ.GN
+When Machines Meet Each Other: Network Effects and the Strategic Role of History in Multi-Agent AI
+
+Authors: Yu Liu, Wenwen Li, Yifan Dou, Guangnan Ye
+
+Abstract: …depend not only on their own choices but also on the coordinated expectations of peers? To address this question, we study LLM agents in a canonical network-effect game, where economic theory predicts convergence to a fulfilled expectation equilibrium (FEE). We design an experimental framework in which 50 heterogeneous GPT-5-based agents repeatedly interact… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06884  [pdf, ps, other]  eess.SP cs.NI
+Memory-Augmented Generative AI for Real-time Wireless Prediction in Dynamic Industrial Environments
+
+Authors: Rahul Gulia, Amlan Ganguly, Michael E. Kuhl, Ehsan Rashedi, Clark Hochgraf
+
+Abstract: …while maintaining amortized computational efficiency essential for real-time deployment. Evo-WISVA establishes a foundational technology for proactive wireless resource management, enabling autonomous optimization and advancing the realization of predictive digital twins in industrial communication networks. ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06852  [pdf]  cs.LG cs.AI
+Enhancing Bankruptcy Prediction of Banks through Advanced Machine Learning Techniques: An Innovative Approach and Analysis
+
+Authors: Zuherman Rustam, Sri Hartini, Sardar M. N. Islam, Fevi Novkaniza, Fiftitah R. Aszhari, Muhammad Rifqi
+
+Abstract: …machines (SVM). According to several studies, machine learning is also more accurate and effective than statistical methods for categorising and forecasting banking risk management. Present Research: The commercial bank data are derived from the annual financial statements of 44 active banks and 21 bankrupt banks in Turkey from 1994 to 2004, and the rural ba… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06816  [pdf, ps, other]  cs.HC cs.CY
+Am I Productive? Exploring the Experience of Remote Workers with Task Management Tools
+
+Authors: Russell Beale
+
+Abstract: As the world continues to change, more and more knowledge workers are embracing remote work. Yet this comes with its challenges for their productivity, and while many Task Management applications promise to improve the productivity of remote workers, it remains unclear how effective they are. Based on existing frameworks, this study investigated the producti… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06727  [pdf, ps, other]  cs.CL cs.AI cs.LG
+Scaling LLM Multi-turn RL with End-to-end Summarization-based Context Management
+
+Authors: Miao Lu, Weiwei Sun, Weihua Du, Zhan Ling, Xuesong Yao, Kang Liu, Jiecao Chen
+
+Abstract: …degraded instruction following, excessive rollout costs, and most importantly, strict context limits. To address these challenges, we introduce summarization-based context management to training. In specific, it periodically compresses the tool using history by LLM-generated summaries that retain task-relevant information to keep a compact context while enab… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06718  [pdf, ps, other]  cs.SE cs.AI
+LLM Company Policies and Policy Implications in Software Organizations
+
+Authors: Ranim Khojah, Mazen Mohamad, Linda Erlenhov, Francisco Gomes de Oliveira Neto, Philipp Leitner
+
+Abstract: …chatbots in software organizations highlight the need for clear policies. We examine how 11 companies create these policies and the factors that influence them, aiming to help managers safely integrate chatbots into development workflows. ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+Comments: Accepted at IEEE Software Special Issue on AIware in the Foundation Models Era
+
+arXiv:2510.06711  [pdf, ps, other]  cs.AI cs.LG
+Inefficiencies of Meta Agents for Agent Design
+
+Authors: Batu El, Mert Yuksekgonul, James Zou
+
+Abstract: …at test time. We find that the designed agents have low behavioral diversity, limiting the potential for their complementary use. Third, we assess when automated design is economically viable. We find that only in a few cases--specifically, two datasets--the overall cost of designing and deploying the agents is lower than that of human-designed agents when d… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06690  [pdf, ps, other]  cs.HC
+"It feels like hard work trying to talk to it": Understanding Older Adults' Experiences of Encountering and Repairing Conversational Breakdowns with AI Systems
+
+Authors: Niharika Mathur, Tamara Zubatiy, Agata Rozga, Elizabeth Mynatt
+
+Abstract: …In this study, we investigate how older adults navigate and repair such breakdowns while interacting with a voice-based AI system deployed in their homes for medication management. Through a 20-week in-home deployment with 7 older adult participant dyads, we analyzed 844 recoded interactions to identify conversational breakdowns and user-initiated repair st… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06663  [pdf, ps, other]  cs.DB cs.PL cs.SE
+Automated Discovery of Test Oracles for Database Management Systems Using LLMs
+
+Authors: Qiuyang Mang, Runyuan He, Suyang Zhong, Xiaoxuan Liu, Huanchen Zhang, Alvin Cheung
+
+Abstract: Since 2020, automated testing for Database Management Systems (DBMSs) has flourished, uncovering hundreds of bugs in widely-used systems. A cornerstone of these techniques is test oracle, which typically implements a mechanism to generate equivalent query pairs, thereby identifying bugs by checking the consistency between their results. However, while applyi… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06645  [pdf, ps, other]  cs.CR cs.AI
+Distilling Lightweight Language Models for C/C++ Vulnerabilities
+
+Authors: Zhiyuan Wei, Xiaoxuan Yang, Jing Sun, Zijian Zhang
+
+Abstract: The increasing complexity of modern software systems exacerbates the prevalence of security vulnerabilities, posing risks of severe breaches and substantial economic loss. Consequently, robust code vulnerability detection is essential for software security. While Large Language Models (LLMs) have demonstrated remarkable capabilities in natural language proce… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+Comments: 25 pages, 10 figures
+
+arXiv:2510.06633  [pdf, ps, other]  cs.RO
+Assist-As-Needed: Adaptive Multimodal Robotic Assistance for Medication Management in Dementia Care
+
+Authors: Kruthika Gangaraju, Tanmayi Inaparthy, Jiaqi Yang, Yihao Zheng, Fengpei Yuan
+
+Abstract: People living with dementia (PLWDs) face progressively declining abilities in medication management-from simple forgetfulness to complete task breakdown-yet most assistive technologies fail to adapt to these changing needs. This one-size-fits-all approach undermines autonomy, accelerates dependence, and increases caregiver burden. Occupational therapy princi… ▽ More
+
+Submitted 8 October, 2025; originally announced October 2025.
+
+arXiv:2510.06564  [pdf, ps, other]  cs.CV cs.AI
+HSNet: Heterogeneous Subgraph Network for Single Image Super-resolution
+
+Authors: Qiongyang Hu, Wenyang Liu, Wenbin Zou, Yuejiao Su, Lap-Pui Chau, Yi Wang
+
+Abstract: …(HSNet), a novel framework that efficiently leverages graph modeling while maintaining computational feasibility. The core idea of HSNet is to decompose the global graph into manageable sub-components. First, we introduce the Constructive Subgraph Set Block (CSSB), which generates a diverse set of complementary subgraphs. Rather than relying on a single mono… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.06515  [pdf, ps, other]  stat.ML cs.LG
+Online Matching via Reinforcement Learning: An Expert Policy Orchestration Strategy
+
+Authors: Chiara Mignacco, Matthieu Jonckheere, Gilles Stoltz
+
+Abstract: …system level efficiency than both individual experts and conventional RL baselines. Our results highlight how structured, adaptive learning can improve the modeling and management of complex resource allocation and decision-making processes. ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.06466  [pdf, ps, other]  cs.CE
+Attention-Enhanced Reinforcement Learning for Dynamic Portfolio Optimization
+
+Authors: Pei Xue, Yuanchun Ye
+
+Abstract: …shows that combining principled action design with attention-based representations improves both the stability and interpretability of reinforcement learning for portfolio management. ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+MSC Class: 91G10 (Primary) 68T05; 91G60 (Secondary)
+
+arXiv:2510.06433  [pdf]  cs.AI
+Flavonoid Fusion: Creating a Knowledge Graph to Unveil the Interplay Between Food and Health
+
+Authors: Aryan Singh Dalal, Yinglun Zhang, Duru Doğan, Atalay Mert İleri, Hande Küçük McGinty
+
+Abstract: …machine-operable format. The proposed knowledge graph serves as an example for researchers, enabling them to explore the complex interplay between dietary choices and disease management. Future work for this study involves expanding the scope of the knowledge graph by capturing nuances, adding more related data, and performing inferences on the acquired know… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.06414  [pdf, ps, other]  cs.DB cs.SE
+Bridging Imperative Process Models and Process Data Queries-Translation and Relaxation
+
+Authors: Abdur Rehman Anwar Qureshi, Adrian Rebmann, Timotheus Kampik, Matthias Weidlich, Mathias Weske
+
+Abstract: Business process management is increasingly practiced using data-driven approaches. Still, classical imperative process models, which are typically formalized using Petri nets, are not straightforwardly applicable to the relational databases that contain much of the available structured process execution data. This creates a gap between the traditional world… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.06299  [pdf]  cs.CV cs.LG stat.AP
+Scalable deep fusion of spaceborne lidar and synthetic aperture radar for global forest structural complexity mapping
+
+Authors: Tiago de Conto, John Armston, Ralph Dubayah
+
+Abstract: …cost. This approach supports continuous, multi-temporal monitoring of global forest structural dynamics and provides tools for biodiversity conservation and ecosystem management efforts in a changing climate. ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.06259  [pdf, ps, other]  cs.CY cs.LG
+Beyond Static Knowledge Messengers: Towards Adaptive, Fair, and Scalable Federated Learning for Medical AI
+
+Authors: Jahidul Arafat, Fariha Tasmin, Sanjaya Poudel, Ahsan Habib Tareq, Iftekhar Haider
+
+Abstract: …six healthcare dimensions: convergence efficiency, institutional fairness, privacy preservation, multi-modal integration, scalability, and clinical deployment readiness. Economic projections indicate 400-800% ROI for rural hospitals and 15-25% performance gains for academic centers. This work presents a seven-question research agenda, 24-month implementation… ▽ More
+
+Submitted 4 October, 2025; originally announced October 2025.
+
+Comments: 20 pages, 4 figures, 14 tables. Proposes Adaptive Fair Federated Learning (AFFL) algorithm and MedFedBench benchmark suite for healthcare federated learning
+
+MSC Class: 68T05; 62P10; 68T07 ACM Class: I.2.11; K.4.1; J.3
+
+arXiv:2510.06248  [pdf, ps, other]  physics.soc-ph econ.GN
+Economic Entropy and Sectoral Dynamics: A Thermodynamic Approach to Market Analysis
+
+Authors: W. A. Rojas C., A. Zamora V., L. F. Quijano W., Y. Beltran P
+
+Abstract: This paper presents an application of geometrothermodynamics (GTD) to the economic analysis of Bogotá's sports sector through the Satellite Account of Sport (CSDB). By establishing an analogy between thermodynamic systems and… ▽ More
+
+Submitted 3 October, 2025; originally announced October 2025.
+
+Comments: 13 pages, 16 figures
+
+arXiv:2510.06078  [pdf, ps, other]  cs.AI
+Constraint-Aware Route Recommendation from Natural Language via Hierarchical LLM Agents
+
+Authors: Tao Zhe, Rui Liu, Fateme Memar, Xiao Luo, Wei Fan, Xinyue Ye, Zhongren Peng, Dongjie Wang
+
+Abstract: …framework that grounds natural-language intents into constraint-aware routes. It first parses user queries into structured intents including POIs, paths, and constraints. A manager agent then coordinates specialized sub-agents: a constraint agent that resolves and formally check constraints, a POI agent that retrieves and ranks candidate POIs, and a path ref… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05981  [pdf, ps, other]  cs.RO
+The DISTANT Design for Remote Transmission and Steering Systems for Planetary Robotics
+
+Authors: Cristina Luna, Alba Guerra, Almudena Moreno, Manuel Esquer, Willy Roa, Mateusz Krawczak, Robert Popela, Piotr Osica, Davide Nicolis
+
+Abstract: …has been selected as the optimal architecture following comprehensive trade-off analysis. The system enables independent wheel traction, steering control, and suspension management whilst maintaining all motorisation within the protected environment. The design meets a 50 km traverse requirement without performance degradation, with integrated dust protectio… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+Comments: Paper for 18th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA), presented on October 7th at Leiden, Netherlands
+
+arXiv:2510.05968  [pdf, ps, other]  cs.SE
+Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications
+
+Authors: Scott Frees
+
+Abstract: …extending ResourceLink to support both iterative query refinement and out-of-band data access, accompanied by patterns for multi-tenant security and resource lifecycle management. These patterns address fundamental challenges in LLM-driven reporting applications and provide practical guidance for developers building them. ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05936  [pdf, ps, other]  cs.CR cs.SE
+AdProv: A Method for Provenance of Process Adaptations
+
+Authors: Ludwig Stage, Mirela Riveni, Raimundas Matulevičius, Dimka Karastoyanova
+
+Abstract: …we extend the XES standard with elements for adaptation logging. Our main contributions are the AdProv method and a comprehensive framework and its tool support for managing adap- tive workflow provenance, facilitating advanced provenance tracking and analysis for different application domains. ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+Comments: 15 pages, 4 figures
+
+arXiv:2510.05888  [pdf, ps, other]  cs.CV
+BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data
+
+Authors: Arefin Ittesafun Abian, Debopom Sutradhar, Md Rafi Ur Rashid, Reem E. Mohamed, Md Rafiqul Islam, Asif Karim, Kheng Cher Yeo, Sami Azam
+
+Abstract: Insect classification is important for agricultural management and ecological research, as it directly affects crop health and production. However, this task remains challenging due to the complex characteristics of insects, class imbalance, and large-scale datasets. To address these issues, we propose BioAutoML-NAS, the first BioAutoML model using multimoda… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05822  [pdf]  econ.GN 
+doi
+10.29119/1641-3466.2025.221.6
+The impact of leadership styles on project efficiency
+
+Authors: Michał Ćwiąkała, Julia Walter, Dariusz Baran, Gabriela Wojak, Ernest Górka, Piotr Mrzygłód, Maciej Frasunkiewicz, Piotr Ręczajski, Jan Piwnik
+
+Abstract: …project success indicators such as goal achievement, budget adherence, and stakeholder satisfaction. The findings also highlight areas needing improvement, including time management, conflict resolution, and involving team members in decision-making. Moreover, the study provides empirical evidence that leadership styles directly shape team dynamics, motivati… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05812  [pdf]  econ.GN 
+doi
+10.29119/1641-3466.2025.216.11
+The challenge of employee motivation in business management
+
+Authors: Anna Kasperczuk, Michał Ćwiąkała, Ernest Górka, Dariusz Baran, Piotr Ręczajski, Piotr Mrzygłód, Maciej Frasunkiewicz, Agnieszka Dardzińska-Głębocka, Jan Piwnik
+
+Abstract: This study investigates the role of employee motivation as a critical factor in effective business management and explores how financial and non-financial motivators shape engagement and performance. Based on a quantitative survey of 102 employees, the research analyzes differences in motivation levels across gender, age, and work experience, as well as the… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05803  [pdf, ps, other]  cs.CR cs.CY
+The Five Safes as a Privacy Context
+
+Authors: James Bailie, Ruobin Gong
+
+Abstract: The Five Safes is a framework used by national statistical offices (NSO) for assessing and managing the disclosure risk of data sharing. This paper makes two points: Firstly, the Five Safes can be understood as a specialization of a broader concept  contextual integrity  to the situation of statistical dissemination by an NS… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+Comments: 6 pages
+
+arXiv:2510.05783  [pdf]  econ.GN 
+doi
+10.29119/1641-3466.2025.215.9
+The role of work-life balance in effective business management
+
+Authors: Anna Kasperczuk, Michał Ćwiąkała, Ernest Górka, Piotr Ręczajski, Piotr Mrzygłód, Maciej Frasunkiewicz, Agnieszka Darcińska-Głębocka, Jan Piwnik, Grzegorz Gardocki
+
+Abstract: This study examines the role of work-life balance (WLB) as a strategic component of effective business management and its influence on employee motivation, job satisfaction, and organizational performance. Drawing on a quantitative survey of 102 economically active individuals, the research investigates the effectivene… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05738  [pdf]  cs.DC
+A Review of Ontology-Driven Big Data Analytics in Healthcare: Challenges, Tools, and Applications
+
+Authors: Ritesh Chandra, Sonali Agarwal, Navjot Singh, Sadhana Tiwari
+
+Abstract: …of Big Data for advanced analytics. However, without effective governance, these repositories risk devolving into disorganized data swamps. Ontology-driven semantic data management offers a robust solution by linking metadata to healthcare knowledge graphs, thereby enhancing semantic interoperability, improving data discoverability, and enabling expressive,… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05713  [pdf, ps, other]  cs.RO cs.AI cs.MA eess.SY
+Federated Split Learning for Resource-Constrained Robots in Industrial IoT: Framework Comparison, Optimization Strategies, and Future Directions
+
+Authors: Wanli Ni, Hui Tian, Shuai Wang, Chengyang Li, Lei Sun, Zhaohui Yang
+
+Abstract: …to enhance the efficiency and feasibility of FedSL implementation, including model compression, split layer selection, computing frequency allocation, and wireless resource management. Simulation results validate the performance of these frameworks under industrial detection scenarios. Finally, we outline open issues and research directions of FedSL in futur… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+Comments: 9 pages, 5 figures, submitted to the IEEE magazine
+
+arXiv:2510.05632  [pdf, ps, other]  cs.AR cs.LG
+From Principles to Practice: A Systematic Study of LLM Serving on Multi-core NPUs
+
+Authors: Tianhao Zhu, Dahu Feng, Erhu Feng, Yubin Xia
+
+Abstract: …NPUs. Using this simulator, we conduct a systematic analysis and further propose the optimal solutions for tensor parallelism strategies, core placement policies, memory management methods, as well as the selection between PD-disaggregation and PD-fusion on multi-core NPUs. We conduct comprehensive experiments on representative LLMs and various NPU configura… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+arXiv:2510.05625  [pdf, ps, other]  cs.NI cs.AI cs.CL cs.MA eess.SY
+Generative AI-Driven Hierarchical Multi-Agent Framework for Zero-Touch Optical Networks
+
+Authors: Yao Zhang, Yuchen Song, Shengnan Li, Yan Shi, Shikui Shen, Xiongyan Tang, Min Zhang, Danshi Wang
+
+Abstract: …technological revolution across all walks of life. As the backbone of wideband communication, optical networks are expecting high-level autonomous operation and zero-touch management to accommodate their expanding network scales and escalating transmission bandwidth. The integration of GenAI is deemed as the pivotal solution for realizing zero-touch optical… ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+Comments: 7 pages,6 figures, Accepted by lEEE Communications Magazine, Open call
+
+arXiv:2510.05604  [pdf, ps, other]  cs.SE
+An Empirical Study of Security-Policy Related Issues in Open Source Projects
+
+Authors: Rintaro Kanaji, Brittany Reid, Yutaro Kashiwa, Raula Gaikovina Kula, Hajimu Iida
+
+Abstract: …that included links were closed, with a median time that was 2 days shorter. These findings offer practical insights for improving security reporting policies and community management, ultimately contributing to a more secure open-source ecosystem. ▽ More
+
+Submitted 7 October, 2025; originally announced October 2025.
+
+Comments: Accepted in PROFES 2025
+
+arXiv:2510.05551  [pdf, ps, other]  econ.EM
+Correcting sample selection bias with categorical outcomes
+
+Authors: Onil Boussim
+
+Abstract: …significantly broadens the set of tools available for analyzing selection in categorical and other discrete outcomes, offering substantial relevance for empirical work across economics, health sciences, and social sciences. ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05504  [pdf, ps, other]  cs.GT q-fin.GN
+Mechanism design and equilibrium analysis of smart contract mediated resource allocation
+
+Authors: Jinho Cha, Justin Yoo, Eunchan Daniel Cha, Emily Yoo, Caedon Geoffrey, Hyoshin Song
+
+Abstract: …becoming critical in complex industrial ecosystems, yet existing approaches often rely on ad hoc heuristics or purely technical blockchain implementations without a rigorous economic foundation. This study develops a mechanism design framework for smart contract-based resource allocation that explicitly embeds efficiency and fairness in decentralized coordin… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: 28 pages, 8 figures. Under review at Journal of Industrial and Management Optimization (JIMO), AIMS Press (Manuscript ID: jimo-457, submitted September 2025)
+
+arXiv:2510.05484  [pdf, ps, other]  cs.CY
+Evaluating LLM Safety Across Child Development Stages: A Simulated Agent Approach
+
+Authors: Abhejay Murali, Saleh Afroogh, Kevin Chen, David Atkinson, Amit Dhurandhar, Junfeng Jiao
+
+Abstract: Large Language Models (LLMs) are rapidly becoming part of tools used by children; however, existing benchmarks fail to capture how these models manage language, reasoning, and safety needs that are specific to various ages. We present ChildSafe, a benchmark that evaluates LLM safety through simulated child agents that embody four developmental stages. These… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05476  [pdf, ps, other]  cs.DC cs.AR cs.NI 
+doi
+10.1145/3712285.3759816
+cMPI: Using CXL Memory Sharing for MPI One-Sided and Two-Sided Inter-Node Communications
+
+Authors: Xi Wang, Bin Ma, Jongryool Kim, Byungil Koh, Hoshik Kim, Dong Li
+
+Abstract: …latency than TCP-based interconnects deployed in small- and medium-scale clusters. We address challenges of CXL memory sharing for MPI communication, including data object management over the dax representation [50], cache coherence, and atomic operations. Overall, cMPI outperforms TCP over standard Ethernet NIC and high-end SmartNIC by up to 49x and 72x in… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05453  [pdf, ps, other]  cs.LG cs.AI
+QDeepGR4J: Quantile-based ensemble of deep learning and GR4J hybrid rainfall-runoff models for extreme flow prediction with uncertainty quantification
+
+Authors: Arpit Kapoor, Rohitash Chandra
+
+Abstract: Conceptual rainfall-runoff models aid hydrologists and climate scientists in modelling streamflow to inform water management practices. Recent advances in deep learning have unravelled the potential for combining hydrological models with deep learning models for better interpretability and improved predictive performance. In our previous work, we introduced… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05414  [pdf, ps, other]  cs.CL
+A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis
+
+Authors: Ziheng Geng, Jiachen Liu, Ran Cao, Lu Cheng, Haifeng Wang, Minghui Cheng
+
+Abstract: …this gap, this paper develops a LLM-based multi-agent system to automate finite element modeling of 2D frames. The system decomposes structural analysis into subtasks, each managed by a specialized agent powered by the lightweight Llama-3.3 70B Instruct model. The workflow begins with a Problem Analysis Agent, which extracts geometry, boundary, and material… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05390  [pdf, ps, other]  cs.SE
+Who Do You Think You Are? Creating RSE Personas from GitHub Interactions
+
+Authors: Felicity Anderson, Julien Sindt, Neil Chue Hong
+
+Abstract: …Low-Coding Closer; and Active Contributor. This demonstrates that large datasets can be analysed despite difficulties of comparing software projects with different project management factors, research domains and contributor backgrounds. ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: 36 pages. Invited extended paper of original poster at deRSE2025. To be published in ECEASST
+
+arXiv:2510.05266  [pdf, ps, other]  cs.CV
+Attention-Enhanced Prototypical Learning for Few-Shot Infrastructure Defect Segmentation
+
+Authors: Christina Thrainer, Md Meftahul Ferdaus, Mahdi Abdelguerfi, Christian Guetl, Steven Sloan, Kendall N. Niles, Ken Pathak
+
+Abstract: …addresses the critical need to rapidly respond to new defect types in infrastructure inspection systems with limited new training data that lead to more efficient and economical maintenance plans for critical infrastructure systems. ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05187  [pdf, ps, other]  cs.AI
+Real-time Framework for Interoperable Semantic-driven Internet-of-Things in Smart Agriculture
+
+Authors: Mohamed El-Dosuky
+
+Abstract: …is proposed in the application layer to help users communicate with and monitor IoT sensors, devices, and new knowledge inferred. This framework provides a robust solution for managing IoT data, ensuring semantic completeness, and enabling real-time knowledge inference. The integration of uncertainty reasoning methods and semantic interoperability techniques… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05183  [pdf, ps, other]  q-bio.QM cs.LG stat.AP stat.ML
+Aneurysm Growth Time Series Reconstruction Using Physics-informed Autoencoder
+
+Authors: Jiacheng Wu
+
+Abstract: …the rupture of which is a leading cause of morbidity and mortality in US. Therefore, the prediction of arterial aneurysm rupture is of great significance for aneurysm management and treatment selection. The prediction of aneurysm rupture depends on the analysis of the time series of aneurysm growth history. However, due to the long time scale of aneurysm gr… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.
+
+Comments: 21 pages, 13 figures
+
+arXiv:2510.05134  [pdf, ps, other]  cs.AI
+Structuring Reasoning for Complex Rules Beyond Flat Representations
+
+Authors: Zhihao Yang, Ancheng Xu, Jingpeng Li, Liang Yan, Jiehui Zhou, Zhen Qin, Hengyun Chang, Ahmadreza Argha, Hamid Alinejad-Rokny, Minghuan Tan, Yujun Cai, Min Yang
+
+Abstract: …Notably, DAT enables smaller language models to match, and in some cases exceed, the performance of significantly larger LLMs, highlighting its efficiency and effectiveness in managing intricate rule systems. ▽ More
+
+Submitted 1 October, 2025; originally announced October 2025.
+
+arXiv:2510.05131  [pdf, ps, other]  cs.CL cs.AI
+Rationale-Augmented Retrieval with Constrained LLM Re-Ranking for Task Discovery
+
+Authors: Bowen Wei
+
+Abstract: …Task Repository and Knowledge Base infrastructure while ensuring trustworthiness through low false-positive rates, evolvability to accommodate terminological changes, and economic efficiency via intelligent caching, shortlist generation, and graceful degradation mechanisms. We provide a comprehensive framework detailing required resources, a phased implement… ▽ More
+
+Submitted 30 September, 2025; originally announced October 2025.
+
+arXiv:2510.05123  [pdf]  eess.IV cs.AI
+A Scalable AI Driven, IoT Integrated Cognitive Digital Twin for Multi-Modal Neuro-Oncological Prognostics and Tumor Kinetics Prediction using Enhanced Vision Transformer and XAI
+
+Authors: Saptarshi Banerjee, Himadri Nath Saha, Utsho Banerjee, Rajarshi Karmakar, Jon Turdiev
+
+Abstract: Neuro-oncological prognostics are now vital in modern clinical neuroscience because brain tumors pose significant challenges in detection and management. To tackle this issue, we propose a cognitive digital twin framework that combines real-time EEG signals from a wearable skullcap with structural MRI data for dynamic and personalized tumor monitoring. At th… ▽ More
+
+Submitted 30 September, 2025; originally announced October 2025.
+
+arXiv:2510.05121  [pdf, ps, other]  cs.CL cs.CE cs.IR cs.LG
+Towards Structured Knowledge: Advancing Triple Extraction from Regional Trade Agreements using Large Language Models
+
+Authors: Durgesh Nandini, Rebekka Koch, Mirco Schoenfeld
+
+Abstract: …effectiveness of Large Language Models (LLMs) for the extraction of structured knowledge in the form of Subject-Predicate-Object triples. We apply the setup for the domain of Economics application. The findings can be applied to a wide range of scenarios, including the creation of… ▽ More
+
+Submitted 29 September, 2025; originally announced October 2025.
+
+arXiv:2510.05120  [pdf, ps, other]  cs.LG
+A Fuzzy Logic-Based Framework for Explainable Machine Learning in Big Data Analytics
+
+Authors: Farjana Yesmin, Nusrat Shirmin
+
+Abstract: …sets, granular computing, and clustering to boost explainability and fairness in big data environments. When applied to the UCI Air Quality dataset, the framework effectively manages uncertainty in noisy sensor data, produces linguistic rules, and assesses fairness using silhouette scores and entropy. Key contributions encompass: (1) A type-2 fuzzy clusterin… ▽ More
+
+Submitted 29 September, 2025; originally announced October 2025.
+
+Comments: 8 pages
+
+arXiv:2510.05111  [pdf, ps, other]  cs.DC
+Agora: Bridging the GPU Cloud Resource-Price Disconnect
+
+Authors: Ian McDougall, Noah Scott, Joon Huh, Kirthevasan Kandasamy, Karthikeyan Sankaralingam
+
+Abstract: …performance per dollar, has diverged for modern Graphics Processing Units (GPUs). While Floating Point Operations per Second (FLOPs) capabilities have continued to scale economically, memory bandwidth has not, creating a significant price-performance disconnect. This paper argues that the prevailing time-based pricing models for cloud GPUs are… ▽ More
+
+Submitted 26 September, 2025; originally announced October 2025.
+
+Comments: 15 pages, 6 figures
+
+arXiv:2510.05110  [pdf, ps, other]  cs.CL
+Collaborative and Proactive Management of Task-Oriented Conversations
+
+Authors: Arezoo Saedi, Afsaneh Fatemi, Mohammad Ali Nematbakhsh, Sophie Rosset, Anne Vilnat
+
+Abstract: …TODs are centered on LLMs. While proactive planning is crucial for task completion, many existing TODs overlook effective goal-aware planning. This paper creates a model for managing task-oriented conversations, conceptualized centered on the information state approach to dialogue management. The created model incorpor… ▽ More
+
+Submitted 26 September, 2025; originally announced October 2025.
+
+arXiv:2510.05109  [pdf, ps, other]  cs.DC cs.AI cs.CL eess.SP
+Tiny but Mighty: A Software-Hardware Co-Design Approach for Efficient Multimodal Inference on Battery-Powered Small Devices
+
+Authors: Yilong Li, Shuai Zhang, Yijing Zeng, Hao Zhang, Xinmiao Xiong, Jingyu Liu, Pan Hu, Suman Banerjee
+
+Abstract: …and superior power efficiency under strict resource constraints. The design further bypasses CPU bottlenecks and reduces redundant memory usage through token-aware buffer management and module-level coordination. Our system outperforms existing implementations in resource efficiency, cutting energy consumption by 42.3\% and GPU memory usage by 11.2\%. This e… ▽ More
+
+Submitted 25 September, 2025; originally announced October 2025.
+
+arXiv:2510.05080  [pdf, ps, other]  cs.LG
+MICROTRIPS: MICRO-geography TRavel Intelligence and Pattern Synthesis
+
+Authors: Yangyang Wang, Tayo Fabusuyi
+
+Abstract: …localized situations and support a range of policy applications and targeted interventions, including the optimal placement of micro-fulfillment centers, effective curb-space management, and the design of more inclusive transportation solutions particularly for vulnerable communities. ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05071  [pdf, ps, other]  cs.CV
+Neuroplastic Modular Framework: Cross-Domain Image Classification of Garbage and Industrial Surfaces
+
+Authors: Debojyoti Ghosh, Soumya K Ghosh, Adrijit Goswami
+
+Abstract: Efficient and accurate classification of waste and industrial surface defects is essential for ensuring sustainable waste management and maintaining high standards in quality control. This paper introduces the Neuroplastic Modular Classifier, a novel hybrid architecture designed for robust and adaptive image classification in dynamic environments. The model… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.05048  [pdf, ps, other]  cs.AI cs.GT
+Look-ahead Reasoning with a Learned Model in Imperfect Information Games
+
+Authors: Ondřej Kubíček, Viliam Lisý
+
+Abstract: …the agent-environment interaction. During test time, this trained model is used to perform look-ahead reasoning. The learned abstraction limits the size of each subgame to a manageable size, making theoretically principled look-ahead reasoning tractable even in games where previous methods could not scale. We empirically demonstrate that with sufficient capa… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04968  [pdf, ps, other]  cs.HC
+Trust in Transparency: How Explainable AI Shapes User Perceptions
+
+Authors: Allen Daniel Sunny
+
+Abstract: …to enhance trust and usability. While traditional AI systems rely heavily on algorithmic transparency and technical accuracy, they often fail to account for broader social and economic contexts. Through a qualitative study, I investigated user interactions with AI explanations and identified key gaps, in- cluding the inability of current systems to provide c… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04956  [pdf]  eess.AS cs.AI
+MuFFIN: Multifaceted Pronunciation Feedback Model with Interactive Hierarchical Neural Modeling
+
+Authors: Bi-Cheng Yan, Ming-Kang Tsai, Berlin Chen
+
+Abstract: Computer-assisted pronunciation training (CAPT) manages to facilitate second-language (L2) learners to practice pronunciation skills by offering timely and instructive feedback. To examine pronunciation proficiency from multiple facets, existing methods for CAPT broadly fall into two categories: mispronunciation detection and diagnosis (MDD) as well as autom… ▽ More
+
+Submitted 7 October, 2025; v1 submitted 6 October, 2025; originally announced October 2025.
+
+Comments: Accepted and to appear in IEEE/ACM Transactions on Audio, Speech, and Language Processing
+
+arXiv:2510.04951  [pdf, ps, other]  cs.LG cs.AI
+Feasibility-Aware Decision-Focused Learning for Predicting Parameters in the Constraints
+
+Authors: Jayanta Mandi, Marianne Defresne, Senne Berden, Tias Guns
+
+Abstract: …parameters. When parameters in the constraints of a COP are predicted, the predicted parameters can lead to infeasible solutions. Therefore, it is important to simultaneously manage both feasibility and decision quality. We develop a DFL framework for predicting constraint parameters in a generic COP. While prior works typically assume that the underlying op… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04908  [pdf, ps, other]  cs.LG
+How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning
+
+Authors: Haotian Gao, Zheng Dong, Jiawei Yong, Shintaro Fukushima, Kenjiro Taura, Renhe Jiang
+
+Abstract: Spatio-temporal forecasting is essential for real-world applications such as traffic management and urban computing. Although recent methods have shown improved accuracy, they often fail to account for dynamic deviations between current inputs and historical patterns. These deviations contain critical signals that can significantly affect model performance.… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: Accepted at NeurIPS 2025
+
+arXiv:2510.04876  [pdf, ps, other]  cs.CV cs.LG
+BenthiCat: An opti-acoustic dataset for advancing benthic classification and habitat mapping
+
+Authors: Hayat Rajani, Valerio Franchi, Borja Martinez-Clavel Valles, Raimon Ramos, Rafael Garcia, Nuno Gracias
+
+Abstract: Benthic habitat mapping is fundamental for understanding marine ecosystems, guiding conservation efforts, and supporting sustainable resource management. Yet, the scarcity of large, annotated datasets limits the development and benchmarking of machine learning models in this domain. This paper introduces a thorough multi-modal dataset, comprising about a mil… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: Article under review by IJRR
+
+ACM Class: I.2.6; I.4.6; I.5.1; I.5.4
+
+arXiv:2510.04854  [pdf, ps, other]  cs.CV
+Read the Room: Inferring Social Context Through Dyadic Interaction Recognition in Cyber-physical-social Infrastructure Systems
+
+Authors: Cheyu Lin, John Martins, Katherine A. Flanigan, Ph. D
+
+Abstract: Cyber-physical systems (CPS) integrate sensing, computing, and control to improve infrastructure performance, focusing on economic goals like performance and safety. However, they often neglect potential human-centered (or ''social'') benefits. Cyber-physical-social infrastructure systems (CPSIS) aim to address this by aligning CPS with socia… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: ASCE International Conference on Computing in Civil Engineering 2024
+
+arXiv:2510.04791  [pdf, ps, other]  cs.SE
+GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes
+
+Authors: Kristian Kolthoff, Felix Kretzer, Simone Paolo Ponzetto, Alexander Maedche, Christian Bartelt
+
+Abstract: …present an integrated tool that unifies these capabilities, offering practitioners an accessible interface for supervising verification runs, inspecting agent rationales and managing the end-to-end requirements verification process. We evaluated GUISpector on a comprehensive set of 150 requirements based on 900 acceptance criteria annotations across diverse… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04749  [pdf, ps, other]  cs.DL 
+doi
+10.1007/978-3-032-06136-2_9
+LLM-Based Information Extraction to Support Scientific Literature Research and Publication Workflows
+
+Authors: Samy Ateia, Udo Kruschwitz, Melanie Scholz, Agnes Koschmider, Moayad Almohaishi
+
+Abstract: The increasing volume of scholarly publications requires advanced tools for efficient knowledge discovery and management. This paper introduces ongoing work on a system using Large Language Models (LLMs) for the semantic extraction of key concepts from scientific documents. Our research, conducted within the German National Research Data Infrastructure for a… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: This PDF is the author-prepared camera-ready version corresponding to the accepted manuscript and supersedes the submitted version that was inadvertently published as the version of record
+
+Journal ref: New Trends in Theory and Practice of Digital Libraries. TPDL 2025. Communications in Computer and Information Science, vol 2694. pp 90-99
+
+arXiv:2510.04740  [pdf]  econ.TH
+Traffic jams and driver behavior archetypes
+
+Authors: Shawn Berry
+
+Abstract: …analyses revealed differential capacity patterns, with lane 1 exhibiting a more pronounced cumulative utility decline. These findings offer a robust framework for traffic management interventions, congestion prediction, and policy design that aligns individual incentives with collective efficiency. Directions for future research were also proposed. ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: 30 pages, 5 figures, 8 tables
+
+arXiv:2510.04726  [pdf, ps, other]  econ.GN cs.LG
+Predictive economics: Rethinking economic methodology with machine learning
+
+Authors: Miguel Alves Pereira
+
+Abstract: This article proposes predictive economics as a distinct analytical perspective within… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: 8 pages
+
+arXiv:2510.04689  [pdf, ps, other]  cs.SE
+Evolaris: A Roadmap to Self-Evolving Software Intelligence Management
+
+Authors: Chengwei Liu, Wenbo Guo, Yuxin Zhang, Limin Wang, Sen Chen, Lei Bu, Yang Liu
+
+Abstract: In recent years, the landscape of software threats has become significantly more dynamic and distributed. Security vulnerabilities are no longer discovered and shared only through formal channels such as public vulnerability databases or vendor advisories. Increasingly, criti- cal threat information emerges informally through blogs, social media, developer forums, open source repositories, and eve… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04678  [pdf, ps, other]  cs.CL
+Multi-Agent Tool-Integrated Policy Optimization
+
+Authors: Zhanfeng Mo, Xingxuan Li, Yuntao Chen, Lidong Bing
+
+Abstract: …a single agent, but they suffer from limited context length and noisy tool responses. A natural solution is to adopt a multi-agent framework with planner- and worker-agents to manage context. However, no existing methods support effective reinforcement learning post-training of tool-integrated multi-agent frameworks. To address this gap, we propose Multi-Age… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: Work in progress
+
+arXiv:2510.04652  [pdf, ps, other]  cs.CR eess.SY
+Modeling and Managing Temporal Obligations in GUCON Using SPARQL-star and RDF-star
+
+Authors: Ines Akaichi, Giorgos Flouris, Irini Fundulaki, Sabrina Kirrane
+
+Abstract: …on usage traces stored in temporal knowledge graphs. We demonstrate how this extended model can be represented using RDF-star and SPARQL-star and propose an Obligation State Manager that monitors obligation states and assess their compliance with respect to usage traces. Finally, we evaluate both the extended model and its prototype implementation. ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04651  [pdf, ps, other]  cs.NI
+Satellite Direct-to-Device from Low Earth Orbit: Techno-Economic Analysis of a Global Non-Terrestrial Network
+
+Authors: Adnan Aijaz, Peizheng Li, Sajida Gufran
+
+Abstract: …evolving ecosystem, it is important to evaluate the feasibility, cost-effectiveness, and profitability of these services. By assessing the technological aspects as well as economic implications, stakeholders can make informed decisions about investment, development, and deployment strategies. This paper presents a comprehensive techno-… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: 8 pages, 13 figures. This paper has been accepted for presentation at the IEEE/IFIP Wireless and Mobile Networking Conference (WMNC) 2025
+
+arXiv:2510.04643  [pdf, ps, other]  cs.AI
+QuantAgents: Towards Multi-agent Financial System via Simulated Trading
+
+Authors: Xiangyu Li, Yawen Zeng, Xiaofen Xing, Jin Xu, Xiangmin Xu
+
+Abstract: …scenarios without assuming actual risks. Specifically, QuantAgents comprises four agents: a simulated trading analyst, a risk control analyst, a market news analyst, and a manager, who collaborate through several meetings. Moreover, our system incentivizes agents to receive feedback on two fronts: performance in real-world markets and predictive accuracy in… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: This paper has been accepted by EMNLP 2025
+
+arXiv:2510.04623  [pdf, ps, other]  cs.AI 
+doi
+10.1007/978-3-032-06004-4_4
+MedPAO: A Protocol-Driven Agent for Structuring Medical Reports
+
+Authors: Shrish Shrinath Vaidya, Gowthamaan Palani, Sidharth Ramesh, Velmurugan Balasubramanian, Minmini Selvam, Gokulraja Srinivasaraja, Ganapathy Krishnamurthi
+
+Abstract: …its operation in established clinical protocols such as the ABCDEF protocol for CXR analysis. MedPAO decomposes the report structuring task into a transparent process managed by a Plan-Act-Observe (PAO) loop and specialized tools. This protocol-driven method provides a verifiable alternative to opaque, monolithic models. The efficacy of our approach is demon… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: Paper published at "Agentic AI for Medicine" Workshop, MICCAI 2025
+
+Journal ref: Lecture Notes in Computer Science, vol 16147, 2025. Springer, Cham
+
+arXiv:2510.04611  [pdf, ps, other]  cs.SE cs.HC
+A survey on the impact of emotions on the productivity among software developers
+
+Authors: Pawel Weichbroth, Maciej Lotysz, Michal Wrobel
+
+Abstract: …has a strong positive, and significant impact (beta = 0.893, p < 0.001) on perceived productivity among software developers. The findings highlight the importance of managing and improving developers emotional well-being to enhance productivity in software development environments. Additionally, interventions aimed at reducing burnout, stress, and other n… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: 29 pages, 5 tables, 96 references
+
+arXiv:2510.04568  [pdf, ps, other]  cs.AI cs.LG
+COSMIR: Chain Orchestrated Structured Memory for Iterative Reasoning over Long Context
+
+Authors: Naman Gupta, Shreeyash Gowaikar, Arun Iyer, Kirankumar Shiragur, Ramakrishna B Bairi, Rishikesh Maurya, Ritabrata Maiti, Sankarshan Damle, Shachee Mishra Gupta
+
+Abstract: …a user query into concrete, checkable sub-questions. worker agents process chunks via a fixed micro-cycle: Extract, Infer, Refine, writing all updates to the shared memory. A Manager agent then Synthesizes the final answer directly from the memory. This preserves step-wise read-then-reason benefits while changing both the communication medium (structured mem… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04563  [pdf, ps, other]  cs.LG math.OC
+Stochastic Approximation Methods for Distortion Risk Measure Optimization
+
+Authors: Jinyang Jiang, Bernd Heidergott, Jiaqiao Hu, Yijie Peng
+
+Abstract: Distortion Risk Measures (DRMs) capture risk preferences in decision-making and serve as general criteria for managing uncertainty. This paper proposes gradient descent algorithms for DRM optimization based on two dual representations: the Distortion-Measure (DM) form and Quantile-Function (QF) form. The DM-form employs a three-timescale algorithm to track q… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04560  [pdf, ps, other]  cs.AI
+ContextNav: Towards Agentic Multimodal In-Context Learning
+
+Authors: Honghao Fu, Yuan Ouyang, Kai-Wei Chang, Yiwei Wang, Zi Huang, Yujun Cai
+
+Abstract: …with the quality and adaptiveness of human-like curation, enabling noise-robust and dynamically optimized contextualization for multimodal ICL. ContextNav unifies context management and noise-robust contextualization within a closed-loop workflow driven by graph-based orchestration. Specifically, it builds a resource-aware multimodal embedding pipeline, main… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04519  [pdf, ps, other]  cs.SE
+Spec2Control: Automating PLC/DCS Control-Logic Engineering from Natural Language Requirements with LLMs - A Multi-Plant Evaluation
+
+Authors: Heiko Koziolek, Thilo Braun, Virendra Ashiwal, Sofia Linsbauer, Marthe Ahlgreen Hansen, Karoline Grotterud
+
+Abstract: Distributed control systems (DCS) manage the automation for many industrial production processes (e.g., power plants, chemical refineries, steel mills). Programming the software for such systems remains a largely manual and tedious process, incurring costs of millions of dollars for extensive facilities. Large language models (LLMs) have been found helpful i… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: 12 pages, 9 figures
+
+arXiv:2510.04508  [pdf, ps, other]  cs.IR
+MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations
+
+Authors: Lili Xie, Yi Zhang, Ruihong Qiu, Jiajun Liu, Sen Wang
+
+Abstract: …It leverages cooperative multi-agent reinforcement learning, where each agent is dedicated to estimating the contribution from an individual source domain, effectively managing credit assignment and mitigating negative transfer. In addition, an entropy-based action diversity penalty is introduced to enhance policy expressiveness and stabilize training by en… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: SIGIR-AP 2025
+
+arXiv:2510.04495  [pdf, ps, other]  cs.SE
+Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem
+
+Authors: Napasorn Tevarut, Brittany Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida
+
+Abstract: …0.87), enabling effective large-scale analysis to reduce security exposure. This findings suggest that trivial and data-only packages warrant greater attention in dependency management to reduce potential technical debt and security exposure. ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+Comments: Accepted in PROFES 2025
+
+arXiv:2510.04472  [pdf, ps, other]  cs.CV cs.AI cs.LG eess.IV
+SPEGNet: Synergistic Perception-Guided Network for Camouflaged Object Detection
+
+Authors: Baber Jan, Saeed Anwar, Aiman H. El-Maleh, Abdul Jabbar Siddiqui, Abdul Bais
+
+Abstract: …such as boundary modules, attention mechanisms, and multi-scale processors independently. This accumulation creates a computational burden without proportional gains. To manage this complexity, they process at reduced resolutions, eliminating fine details essential for camouflage. We present SPEGNet, addressing fragmentation through a unified design. The arc… ▽ More
+
+Submitted 6 October, 2025; originally announced October 2025.
+
+arXiv:2510.04437  [pdf, ps, other]  cs.SE
+Smart Hiring Redefined: An Intelligent Recruitment Management Platform
+
+Authors: Fangzhe Wu, Dongyang Lyu, Xiaoqi Li
+
+Abstract: Against the backdrop of deepening digital and intelligent transformation in human resource management, traditional recruitment models struggle to fully meet enterprises' growing demand for precise talent acquisition due to limited efficiency, high costs, and information asymmetry. As a vital tool for optimizing recruitment processes, reducing labor and t… ▽ More
+
+Submitted 7 October, 2025; v1 submitted 5 October, 2025; originally announced October 2025.
+
+arXiv:2510.04388  [pdf, ps, other]  econ.GN
+REMIND-PyPSA-Eur: Integrating power system flexibility into sector-coupled energy transition pathways
+
+Authors: Adrian Odenweller, Falko Ueckerdt, Johannes Hampp, Ivan Ramirez, Felix Schreyer, Robin Hasse, Jarusch Muessel, Chen Chris Gong, Robert Pietzcker, Tom Brown, Gunnar Luderer
+
+Abstract: …flexibility, reaching climate neutrality by 2045. Our results confirm that a sector-coupled energy system with nearly 100\% renewable electricity is technically possible and economically viable. Power system flexibility influences long-term pathways through price differentiation: supply-side market values vary by generation technology, while demand-side pric… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.
+
+arXiv:2510.04386  [pdf, ps, other]  cs.LG
+SSM-CGM: Interpretable State-Space Forecasting Model of Continuous Glucose Monitoring for Personalized Diabetes Management
+
+Authors: Shakson Isaac, Yentl Collin, Chirag Patel
+
+Abstract: Continuous glucose monitoring (CGM) generates dense data streams critical for diabetes management, but most used forecasting models lack interpretability for clinical use. We present SSM-CGM, a Mamba-based neural state-space forecasting model that integrates CGM and wearable activity signals from the AI-READI cohort. SSM-CGM improves short-term accuracy over… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.
+
+Comments: Shakson Isaac and Yentl Collin contributed equally
+
+arXiv:2510.04380  [pdf, ps, other]  cs.SE cs.AI cs.HC 
+doi
+10.1007/978-3-032-04190-6_11
+Reconsidering Requirements Engineering: Human-AI Collaboration in AI-Native Software Development
+
+Authors: Mateen Ahmed Abbasi, Petri Ihantola, Tommi Mikkonen, Niko Mäkitalo
+
+Abstract: …and evaluation processes. Despite its critical role, RE continues to face persistent challenges, such as ambiguity, conflicting stakeholder needs, and the complexity of managing evolving requirements. A common view is that Artificial Intelligence (AI) has the potential to streamline the RE process, resulting in improved efficiency, accuracy, and… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.
+
+Comments: Accepted at SEAA 2025. Appearing in Springer LNCS 16081, pages 164-180
+
+ACM Class: D.2.1; D.2.2; D.2.9; I.2.7
+
+Journal ref: In: SEAA 2025 proceedings, LNCS vol. 16081, Springer
+
+arXiv:2510.04374  [pdf, ps, other]  cs.LG cs.AI cs.CY
+GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks
+
+Authors: Tejal Patwardhan, Rachel Dias, Elizabeth Proehl, Grace Kim, Michele Wang, Olivia Watkins, Simón Posada Fishman, Marwan Aljubeh, Phoebe Thacker, Laurance Fauconnet, Natalie S. Kim, Patrick Chao, Samuel Miserendino, Gildas Chabot, David Li, Michael Sharman, Alexandra Barr, Amelia Glaese, Jerry Tworek
+
+Abstract: We introduce GDPval, a benchmark evaluating AI model capabilities on real-world economically valuable tasks. GDPval covers the majority of U.S. Bureau of Labor Statistics Work Activities for 44 occupations across the top 9 sectors contributing to U.S. GDP (Gross Domestic Product). Tasks are constructed from the representative work of industry professionals w… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.
+
+arXiv:2510.04211  [pdf, ps, other]  q-fin.ST econ.GN physics.soc-ph
+Panel regression for the GDP of the Central and Eastern European countries using time-varying coefficients
+
+Authors: Lesya Kolinets, Vygintas Gontis
+
+Abstract: The integration of Central and Eastern European (CEE) countries into the European Economic Area serves as a valuable experiment for the regional… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.
+
+Comments: 9 pages, 6 figures, 1 table
+
+arXiv:2510.04192  [pdf, ps, other]  cs.MA cs.AI
+Cooperative Flexibility Exchange: Fair and Comfort-Aware Decentralized Resource Allocation
+
+Authors: Rabiya Khalid, Evangelos Pournaras
+
+Abstract: The growing electricity demand and increased use of smart appliances are placing new pressures on power grids, making efficient energy management more important than ever. The existing energy… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.
+
+arXiv:2510.04190  [pdf]  cs.RO
+Zenbo Patrol: A Social Assistive Robot Based on Multimodal Deep Learning for Real-time Illegal Parking Recognition and Notification
+
+Authors: Jian-jie Zheng, Chih-kai Yang, Po-han Chen, Lyn Chao-ling Chen
+
+Abstract: …on the plate are recognized through the GPT-4o model, and identifies legality of the numbers. When an illegal parking is detected, the robot sends Line messages to the system manager immediately. The contribution of the work is that a novel multimodal deep learning method has validated with high accuracy in license plate recognition, and a social assistive r… ▽ More
+
+Submitted 5 October, 2025; originally announced October 2025.

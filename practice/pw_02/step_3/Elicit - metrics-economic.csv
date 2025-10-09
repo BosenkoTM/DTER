@@ -1,0 +1,240 @@
+﻿Title,Authors,DOI,DOI link,Venue,Citation count,Year,Summary,Metrics,"Supporting quotes for ""Summary""","Supporting tables for ""Summary""","Reasoning for ""Summary""","Supporting quotes for ""Metrics""","Supporting tables for ""Metrics""","Reasoning for ""Metrics"""
+Structural Models and Endogeneity in Corporate Finance: The Link Between Managerial Ownership and Corporate Performance,"J. Coles, M. Lemmon, Felix Meschke",10.2139/ssrn.423510,https://doi.org/10.2139/ssrn.423510,-,503,2003,"Standard econometric models like proxy variables, fixed effects, and instrumental variables are frequently used but often fail to address endogeneity issues in assessing firm performance, particularly in the context of managerial ownership and performance.","- Tobin's Q (firm performance)
+- Book value of total assets (firm size)
+- Sales (firm size)
+- Research and development expenditures (asset intangibility)
+- Advertising expenses (growth opportunities)
+- Book leverage (financial leverage)
+- Effective ownership share of the CEO (ownership structure)
+- Correlation coefficients (Pearson and Spearman)
+- Regression coefficients and t-statistics (ownership-performance relation)","  - ""To assess the effectiveness of standard econometric approaches to the endogeneity problem, we apply those remedies to panel data generated from the model.""
+  - ""The unfortunate conclusion is that, at least in the ownership–performance context, proxy variables, fixed effects, and instrumental variables do not generally provide reliable solutions to simultaneity bias.""
+  - ""In particular, we generate a panel of data supposing that our model is the true model and that our estimated exogenous productivity parameters are correct.""
+  - ""In the end, based on our simulated panel, we find that endogeneity can be a severe problem and that standard approaches used in the literature often fail to provide a solution,""
+  - ""We follow Himmelberg, Hubbard, and Palia (1999) and include only firms with three years or more of data in our panel.""
+  - ""firm fixed effects in our simulated data panel, both with and without the standard control variables, do not tend to solve the endogeneity problem.""
+  - ""Paralleling the work that explores the relation between Tobin's Q as the dependent variable and ownership structure as an independent variable is another branch of the literature that reverses the roles of these variables.""
+  - ""Using the simulated data, we follow these authors by specifying a simultaneous equations system relating Tobin's Q to managerial ownership.""
+  - ""Overall, we use our model of the performance-ownership relation to illustrate the difficulties in choosing appropriate instruments for simultaneous equation models.""",,"- The paper discusses the limitations of commonly used econometric models in assessing firm performance, particularly in the context of managerial ownership and performance.
+- It highlights that standard approaches such as proxy variables, fixed effects, and instrumental variables often fail to address endogeneity issues.
+- The paper uses a simulated panel to test these econometric models, indicating a robust methodology to evaluate their effectiveness.
+- The findings suggest that these models are not reliable in solving simultaneity bias, which is a significant issue in assessing firm performance.
+- The paper also explores the use of simultaneous equations to address endogeneity, but notes difficulties in selecting appropriate instruments.","  - ""To measure firm performance we use Tobin's Q, computed as the book value of total assets minus the book value of equity plus the market value of equity all divided by total assets.""
+  - ""We use data on the book value of total assets and sales as measures of firm size.""
+  - ""As control variables we include research and development expenditures and advertising expenses, each scaled by total assets, to measure asset intangibility and growth opportunities.""
+  - ""Book leverage is calculated as long-term debt divided by total assets.""
+  - ""the effective ownership share of the CEO, which corresponds to δ * in our model, as the sum of the ownership shares from the CEO's stock ownership, restricted stock, and stock options.""
+  - ""The Pearson and Spearman correlation coefficients for Q * and Q are 0.24 (p < 0.01) and 0.29 (p < 0.01) for both CARA and CRRA.""
+  - ""Actual Tobin's Q is negatively correlated with sales and leverage, and positively correlated with R&D and advertising.""
+  - ""the coefficient on the ownership share variable is 4.76 (t = 20.09) and the coefficient on the squared ownership share is -11.11 (t = -14.12).""","  - ""(Page 50, Table 1) Below is a rendering of the page up to the first error.""
+  - ""(Page 51, Table 1) |                               |   Mean  |  Median | Std. Dev. |   Min.  |  Max.   |\n|-------------------------------|---------|---------|-----------|---------|---------|\n| y (x=0.5)                     | 0.56108 | 0.56751 |  0.08499  | 0.11911 | 0.75179 |""
+  - ""(Page 51, Table 2) | Actual Tobin’s Q (for comparison) |  Mean  | Median | Std. Dev. |  Min.  |  Max.  |\n|-----------------------------------|--------|--------|-----------|--------|--------|\n|                                   | 2.1017 | 1.5049 |  2.0421   | 0.2983 | 45.333 |""
+  - ""(Page 51, Table 3) |                                 |   Mean  |  Median | Std. Dev. |   Min.  |   Max.  |\n|---------------------------------|---------|---------|-----------|---------|---------|\n| y (x=0.5)                       | 0.56108 | 0.56752 |  0.08499  | 0.11911 | 0.75179 |""
+  - ""(Page 52, Table 1) |                         | baseline |     z    |     y    |     p    |     r    |     σ    |     x    |\n|-------------------------|----------|----------|----------|----------|----------|----------|----------|\n| CEO Ownership (δ*)      | 0.0125   | -5.101   | 5.374    | 0.000    | 5.373    | 10.923   | 43.090   |""
+  - ""<table_quotation page_num=53 table_on_page=1></table_quotation>""
+  - ""<table_quotation page_num=54 table_on_page=1></table_quotation>""
+  - ""<table_quotation page_num=55 table_on_page=1></table_quotation>""
+  - ""(Page 56, Table 1) |                         | Actual Q |          | Modeled Q* |          |          |\n|-------------------------|----------|----------|------------|----------|----------|\n|                         | Model 1  | Model 2  | CARA       | Model 3  | Model 4  | Model 5  |""
+  - ""(Page 57, Table 1) | Decile      |    δ*   |   I*   |    g*    |   Q*   |     y    |     z    |\n|-------------|---------|--------|----------|--------|----------|----------|\n| small = 1   | 0.001328| 12,146 | 0.000009 | 1.5309 | 0.653069 | 0.000000 |""
+  - ""<table_quotation page_num=58 table_on_page=1></table_quotation>""
+  - ""<table_quotation page_num=59 table_on_page=1></table_quotation>""
+  - ""(Page 60, Table 1) Below is a rendering of the page up to the first error.""
+  - ""<table_quotation page_num=61 table_on_page=1></table_quotation>""","- The paper uses Tobin's Q as a primary metric to measure firm performance, which is calculated using book value of total assets, book value of equity, and market value of equity.
+- Firm size is measured using book value of total assets and sales.
+- Control variables include research and development expenditures, advertising expenses, and book leverage, which are used to assess asset intangibility, growth opportunities, and financial leverage.
+- The effective ownership share of the CEO is calculated by summing direct stock ownership, restricted stock, and stock options.
+- Correlation coefficients (Pearson and Spearman) are used to assess the relationship between model-generated Q* and actual Q.
+- Regression coefficients and t-statistics are provided for the relationship between Tobin's Q and CEO ownership.
+- The tables at the end of the paper likely contain detailed statistical results and summary statistics for these metrics."
+Linear Programming Models for Firm and Industry Performance,"R. Färe, S. Grosskopf, Sung-ko Li",10.2307/3440372,https://doi.org/10.2307/3440372,-,63,1992,Data Envelopment Analysis (DEA) is a frequently used model to assess firm performance; industry models also construct technology from firm data but allow for reallocation of resources.,"- Data Envelopment Analysis (DEA)
+- Industry Production Function Models
+- Nonparametric Tests of Regularity Conditions in Production","  - ""Programming models of technology are enjoying a revival in several strands of literature.""
+  - ""One such strand is the growing literature devoted to the assessment of firm performance based on the work of Farrell (1957) and the later popularized by Charnes, Cooper and Rhodes (1978) under the name of data envelopment analysis (DEA);""
+  - ""A second strand of literature seeks to model the industry production function and is associated with Johansen (1972), Fbrsund and Hjalmarsson (1987) and Aigner and Chu (1968).""
+  - ""One of the purposes of this paper is to examine the relationship between the first two areas, i.e., analysis of firm and industry programming models of technology and performance.""
+  - ""Examination of these models in primal and dual form reveals that the industry approach constructs technology from firm data but allows (hypothetical) reallocation of aggregate resources across firms to yield an industry function.""
+  - ""The firm models also construct technology from the data on all firms in the sample/industry, but do not allow for reallocation of inputs across firms.""",,"- The abstract discusses the use of programming models in assessing firm performance, specifically mentioning data envelopment analysis (DEA) as a key model.
+- It highlights the relationship between firm and industry models, indicating that both are used to assess performance but differ in their approach to resource allocation.
+- The abstract does not provide specific econometric models beyond DEA and does not mention the frequency of use or strength of evidence.
+- The methodology involves examining these models in primal and dual form, but no specific econometric models are detailed beyond this.","  - ""One such strand is the growing literature devoted to the assessment of firm performance based on the work of Farrell (1957) and the later popularized by Charnes, Cooper and Rhodes (1978) under the name of data envelopment analysis (DEA);""
+  - ""A second strand of literature seeks to model the industry production function and is associated with Johansen (1972), Fbrsund and Hjalmarsson (1987) and Aigner and Chu (1968).""
+  - ""A third strand of literature uses programming techniques such as nonparametric tests of regularity conditions in production; see Afriat (1972), Hanoch and Rothschild (1972), Diewert and Parkan (1983) and Varian (1984).""
+  - ""One of the purposes of this paper is to examine the relationship between the first two areas, i.e., analysis of firm and industry programming models of technology and performance.""
+  - ""Examination of these models in primal and dual form reveals that the industry approach constructs technology from firm data but allows (hypothetical) reallocation of aggregate resources across firms to yield an industry function.""
+  - ""The firm models also construct technology from the data on all firms in the sample/industry, but do not allow for reallocation of inputs across firms.""",,"- The abstract mentions several strands of literature related to firm and industry performance, which suggests that these are the metrics or methods used in the paper.
+- The first strand involves ""data envelopment analysis (DEA),"" which is a specific metric used for assessing firm performance.
+- The second strand involves modeling the industry production function, which implies metrics related to production functions.
+- The third strand involves ""nonparametric tests of regularity conditions in production,"" indicating another set of metrics related to production conditions.
+- The paper examines the relationship between firm and industry models, suggesting that these models are used as metrics to assess performance.
+- The mention of ""primal and dual form"" indicates that these are part of the metrics used to analyze the models."
+ECONOMETRIC MODELLING IN ASSESSING THE EFFICIENCY OF THE FIRM,E.E Musayeva,10.58225/tim.2024-4-128-135,https://doi.org/10.58225/tim.2024-4-128-135,Scientific works/Elmi eserler,0,1996,"Regression models, particularly multiple regression models, are frequently used to assess firm performance, with adequacy determined by statistical tests like the F Fisher test and Students t test.","- Regression models
+- F Fisher test
+- Students t test
+- Productivity
+- Flexibility","  - ""Research provides an indepth examination of the various methods and
+
+techniques used in financial analysis to assess firm performance.""
+  - ""In research have created multiply regression model and
+
+adequacy of the model was determined using the F Fisher test, Students t test, and the stability of
+
+the parameters.""
+  - ""The article examines regression models of the dependence of the profit of Kapital bank
+
+on its performance indicators.""
+  - ""The importance of different econometrical techniques in
+
+performance evaluation was emphasized.""
+  - ""Econometric analysis can be more meaningful if it is conducted as per needs of
+
+the research and the unique characteristics of the firm.""",,"- The abstract discusses the use of regression models to assess firm performance, specifically focusing on the profit of Kapital bank and its performance indicators. This suggests that regression models are a key econometric model used in this context.
+- The mention of creating a multiple regression model and using statistical tests like the F Fisher test and Students t test indicates the methodology used to assess the adequacy of these models.
+- The abstract emphasizes the importance of econometrical techniques in performance evaluation, suggesting that these methods are frequently used.
+- The source provides an in-depth examination of various methods and techniques, which implies a comprehensive approach to assessing firm performance using econometric models.","  - ""The article examines regression models of the dependence of the profit of Kapital bank
+
+on its performance indicators.""
+  - ""In research have created multiply regression model and
+
+adequacy of the model was determined using the F Fisher test, Students t test, and the stability of
+
+the parameters.""
+  - ""Research provides an indepth examination of the various methods and
+
+techniques used in financial analysis to assess firm performance.""
+  - ""assessing a companys financial
+
+performance is a multidimensional task, requiring the consideration of both productivity and
+
+flexibility as core indicators.""",,"- The abstract mentions the use of ""regression models"" to assess the dependence of profit on performance indicators, which suggests that these models are a key metric used in the study.
+- The use of statistical tests like the ""F Fisher test"" and ""Students t test"" indicates that these are metrics used to evaluate the adequacy of the regression model.
+- The abstract highlights ""productivity and flexibility"" as core indicators for assessing financial performance, which are likely metrics used in the analysis.
+- The mention of ""various methods and techniques used in financial analysis"" suggests that multiple metrics are employed, but the specific ones are not detailed beyond regression models and statistical tests."
+Determinants of Firm Performance: A Subjective Model,Marxia Oli Sigo,10.11114/IJSSS.V4I7.1662,https://doi.org/10.11114/IJSSS.V4I7.1662,-,144,2016,Not relevant (the abstract discusses a subjective measurement model for firm performance but does not address econometric models),"- Profitability performance
+- Growth performance
+- Market value performance of the firm
+- Customer satisfaction
+- Employee satisfaction
+- Environmental audit performance
+- Corporate governance performance
+- Social performance","  - ""This review article suggests a comprehensive subjective measurement model for performance of firms, based on indicators and findings of earlier research studies.""
+  - ""The final subjective model was developed with nine determinants/dimensions, namely, profitability performance, growth performance, market value performance of the firm, customer satisfaction, employee satisfaction, environmental audit performance, corporate governance performance and social performance.""
+  - ""The performance of firm is a relevant construct, in strategic management research, across the globe and frequently it is used as a dependent variable.""
+  - ""It is found that these nine dimensions or determinants cannot be used interchangeably since they represent different aspects of firm performance and different stakeholders of firms have different demands that need to be managed independently.""",,"- The abstract discusses the relevance of firm performance in strategic management research and the lack of consensus on its definition and measurement.
+- It proposes a subjective measurement model with nine determinants for firm performance, which are not interchangeable due to representing different aspects and stakeholders.
+- The abstract does not mention any econometric models or their frequency of use in assessing firm performance, which is the focus of the research question.
+- The source is not relevant to the research question about econometric models used to assess firm performance.","  - ""The final subjective model was developed with nine determinants/dimensions, namely, profitability performance, growth performance, market value performance of the firm, customer satisfaction, employee satisfaction, environmental audit performance, corporate governance performance and social performance.""",,"- The abstract mentions a ""comprehensive subjective measurement model for performance of firms"" which implies the use of specific metrics to measure firm performance.
+- The ""nine determinants/dimensions"" listed are the metrics used in the model. These include:
+  - Profitability performance
+  - Growth performance
+  - Market value performance of the firm
+  - Customer satisfaction
+  - Employee satisfaction
+  - Environmental audit performance
+  - Corporate governance performance
+  - Social performance
+- These dimensions are considered metrics because they are used to evaluate different aspects of firm performance."
+Toward a subjective measurement model for firm performance,"J. Santos, Luiz Artur Ledur Brito",10.1590/S1807-76922012000500007,https://doi.org/10.1590/S1807-76922012000500007,-,483,2012,"Not relevant (the abstract discusses a subjective measurement model for firm performance, not econometric models)","- Profitability
+- Growth
+- Customer satisfaction
+- Employee satisfaction
+- Social performance
+- Environmental performance
+- Second-order financial performance construct","  - ""This article proposes and tests a measurement model for firm performance, based on subjective indicators.""
+  - ""The final model had six first-order dimensions: profitability, growth, customer satisfaction, employee satisfaction, social performance, and environmental performance.""
+  - ""The model is grounded in stakeholder theory and a review of empirical articles.""
+  - ""A second-order financial performance construct, influencing growth and profitability, correlated with the first-order intercorrelated, non-financial dimensions.""
+  - ""Confirmatory Factor Analyses, using data from 116 Brazilian senior managers, were used to test its fit and psychometric properties.""",,"- The abstract discusses the development and testing of a subjective measurement model for firm performance, which is not directly related to econometric models used to assess firm performance.
+- The focus is on a measurement model based on subjective indicators, which is different from econometric models.
+- The methodology involves confirmatory factor analyses with data from 116 Brazilian senior managers, but this does not address the use of econometric models.
+- The abstract does not mention any econometric models or their frequency of use in assessing firm performance.","  - ""A second-order financial performance construct, influencing growth and profitability, correlated with the first-order intercorrelated, non-financial dimensions.""
+  - ""The final model had six first-order dimensions: profitability, growth, customer satisfaction, employee satisfaction, social performance, and environmental performance.""
+  - ""This article proposes and tests a measurement model for firm performance, based on subjective indicators.""",,"- The abstract mentions that the article proposes a measurement model for firm performance based on ""subjective indicators."" This suggests that the metrics used are subjective in nature.
+- The model includes six first-order dimensions: profitability, growth, customer satisfaction, employee satisfaction, social performance, and environmental performance. These are the specific metrics or dimensions used to measure firm performance.
+- The mention of a ""second-order financial performance construct"" indicates that financial performance is a broader metric that influences growth and profitability, which are part of the first-order dimensions."
+R&D Productivity: A Survey of Econometric Studies at the Firm Level,"J. Mairesse, Mohamed Sassenou",10.3386/W3666,https://doi.org/10.3386/W3666,-,454,1991,The Cobb-Douglas production function is the most frequently used econometric model to assess firm performance in terms of R&D and productivity.,"- Elasticity of R&D
+- Rate of return to R&D","  - ""Most econometric studies that attempt to assess the contribution of R&D to economic growth rely on the Cobb-Douglas production function as their basic analytical framework.""
+  - ""the transformed model with a R&D intensity variable does not strictly correspond to the Cobb-Douglas production function with R&D capital.""
+  - ""The problem of estimating R&D capital may be avoided by considering a specification of the Cobb-Douglas function that, while simpler than the usual form, is in principle equivalent.""
+  - ""the theoretical framework for the studies considered here is the Cobb-Douglas production function, which with three factors can be written as: = A et C? L1 K et""""
+  - ""The transformed model thus establishes a direct relation between changes in productivity and levels of R&D intensity (and not, as previously, between variables in changes for time-series estimates, on the one hand, and variables in levels for cross-sectional estimates on the other).""",,"- The paper discusses the use of econometric models to assess the relationship between R&D and productivity at the firm level.
+- The Cobb-Douglas production function is identified as the most frequently used model for this purpose.
+- The paper provides details on how the Cobb-Douglas function is applied, including its formulation and the challenges in estimating R&D capital.
+- The paper also mentions a transformed version of the Cobb-Douglas function that uses R&D intensity instead of R&D capital, which is considered simpler but equivalent.
+- The focus on the Cobb-Douglas function and its variations indicates that this model is central to assessing firm performance in terms of R&D and productivity.","  - ""The findings reviewed fall naturally into three major categories: based on the cross-sectional or time-series dimensions of the data and specified in terms of the elasticity of R&D or the rate of return to R&D.""
+  - ""The estimates that we refer to as cross-sectional estimates are therefore those based primarily on the information provided by the individual differences between firms in the levels of variables, as opposed to those we refer to as time-series estimates which relate solely to the individual changes in variables (regardless of their levels).""
+  - ""the main cross-sectional estimates of the R&D elasticity ' that we compile.""
+  - ""The main time-series estimates in studies based directly on the Cobb-Douglas function with an R&D capital stock measure are summarised in Table 2""
+  - ""The estimates of ""returns to R&D"" that we shall now examine represent a compromise between the cross-sectional and timeseries estimates of R&D elasticity.""
+  - ""The transformed model thus establishes a direct relation between changes in productivity and levels of R&D intensity (and not, as previously, between variables in changes for time-series estimates, on the one hand, and variables in levels for cross-sectional estimates on the other).""
+  - ""The meaning of the rate of return to R&D is also subject to further ambiguity when the estimates are based on variables for labour productivity and physical capital (or for total factor productivity) which are not corrected for R&D doublecounting.""","  - ""(Page 9, Table 1) Below is a rendering of the page up to the first error.""
+  - ""(Page 10, Table 1) Below is a rendering of the page up to the first error.""
+  - ""(Page 14, Table 1) Below is a rendering of the page up to the first error.""
+  - ""(Page 15, Table 1) Below is a rendering of the page up to the first error.""
+  - ""(Page 18, Table 1) ---------------------------------------------------------------------------------------------------------------------------------\n| Sample                                      | Equations         | Log K       | Log C       | System R² |\n|---------------------------------------------|-------------------|-------------|-------------|-----------|""
+  - ""<table_quotation page_num=21 table_on_page=1></table_quotation>""
+  - ""(Page 22, Table 1) Below is a rendering of the page up to the first error.""
+  - ""(Page 23, Table 1) Below is a rendering of the page up to the first error.""","- The paper discusses two primary metrics: the elasticity of R&D and the rate of return to R&D. These are used to measure the impact of R&D on productivity.
+- The paper distinguishes between cross-sectional and time-series estimates, which are two different methods of analyzing data. Cross-sectional estimates look at differences between firms at a single point in time, while time-series estimates look at changes over time within firms.
+- The tables included in the paper provide detailed estimates of R&D elasticity and rates of return to R&D, using both cross-sectional and time-series data.
+- The paper also discusses the challenges in interpreting these metrics, such as the distinction between private and social rates of return, and the need to correct for R&D double-counting.
+- The tables at the end of the paper provide specific numerical estimates for these metrics, which are central to the analysis."
+Development of Econometric Models for Financial Performance Forecasting in Companies,"Adi Nugroho, Maria Apriyane Patty, Andriani Karto",10.35870/ijmsit.v4i2.3146,https://doi.org/10.35870/ijmsit.v4i2.3146,International Journal of Management Science and Information Technology,2,2024,"ARIMA and VAR models are used to assess firm performance, with a focus on selecting correct parameters for improved accuracy.","RMSE, MAD, MAPE","  - ""Using ARIMA and VAR models, the study shows that selecting the correct parameters, such as the number of lags, is critical to improving prediction accuracy.""
+  - ""This study develops an econometric model to predict corporate financial performance.""
+  - ""The model combines statistical and econometric analysis to identify significant input variables such as asset turnover, firm size, capital structure, and liquidity.""
+  - ""The developed model is evaluated based on RMSE, MAD, and MAPE metrics, which show that the econometric model offers more accurate predictions than the classical statistical model.""",,"- The abstract discusses the development of an econometric model for predicting corporate financial performance, which is relevant to assessing firm performance.
+- The study uses ARIMA and VAR models, which are specific econometric models used to assess firm performance.
+- The abstract highlights the importance of selecting correct parameters for these models to improve prediction accuracy.
+- The study evaluates the model using metrics like RMSE, MAD, and MAPE, indicating a focus on accuracy and reliability.","  - ""The developed model is evaluated based on RMSE, MAD, and MAPE metrics, which show that the econometric model offers more accurate predictions than the classical statistical model.""",,"- The abstract mentions that the developed econometric model is evaluated using specific metrics.
+- The metrics used for evaluation are explicitly listed as RMSE (Root Mean Square Error), MAD (Mean Absolute Deviation), and MAPE (Mean Absolute Percentage Error).
+- These metrics are commonly used in statistical and econometric modeling to assess the accuracy of predictions."
+On the predictability of firm performance via simple time-series and econometric models: evidence from UK SMEs,"Vicky Bamiatzi, Konstantinos Bozos, Konstantinos Nikolopoulos",10.1080/13504850701720163,https://doi.org/10.1080/13504850701720163,-,7,2010,Not mentioned (the abstract does not specify which econometric models are most frequently used to assess firm performance),"- Predictive accuracy
+- Sales turnover","  - ""This article examines the predictive accuracy of simple time-series and econometric models on forecasting firm performance in terms of sales turnover.""
+  - ""The study identifies operational rules under which the class of simple econometric regression models is more accurate than simple time-series forecasting alternatives, thus more appropriate to back-up multiple investment decisions.""",,"- The abstract discusses the predictive accuracy of simple time-series and econometric models for forecasting firm performance, specifically focusing on sales turnover.
+- It mentions that simple econometric regression models are more accurate than time-series models for certain operational rules, which implies these models are frequently used for assessing firm performance.
+- The abstract does not specify which econometric models are most frequently used, only that simple econometric regression models are more accurate in certain contexts.
+- The study is focused on SMEs in the UK, which provides context but does not specify the frequency of use of these models in a broader context.","  - ""This article examines the predictive accuracy of simple time-series and econometric models on forecasting firm performance in terms of sales turnover.""
+  - ""The study identifies operational rules under which the class of simple econometric regression models is more accurate than simple time-series forecasting alternatives, thus more appropriate to back-up multiple investment decisions.""",,"- The abstract mentions that the study examines the ""predictive accuracy"" of models, which implies that accuracy is a metric used to evaluate the performance of these models.
+- The focus on ""forecasting firm performance in terms of sales turnover"" suggests that sales turnover is a key metric used in the study.
+- The comparison between the accuracy of econometric regression models and time-series forecasting alternatives indicates that accuracy is a primary metric for evaluating these models."
+Firm Size as a Determinant of Firm Performance: The Case of Swine Raising,"M. Kuncová, Veronika Hedija, Roman Fiala",10.7160/AOL.2016.080308,https://doi.org/10.7160/AOL.2016.080308,-,38,2016,Linear regression and multi-criteria evaluation (TOPSIS) are used to assess firm performance; linear regression is commonly used in studies examining firm size and performance.,"- Profitability ratios: EBITDA, ROA, ROE, ROS
+- Labour productivity: Value added/Personnel expenses
+- Operating ratio: (Operating expenses - Depreciation)/(Revenues from sold goods + Production)","  - ""The aim of the paper is to evaluate the effect of firm size to the economic performance of firm belonging to the raising of swine sector (CZ-NACE 01.460).""
+  - ""To assess the relationship between firm size and firm performance, the linear regression model is used.""
+  - ""We use multi-criteria evaluation of alternatives method (specifically TOPSIS) to evaluate the economic performance in this study.""
+  - ""The relationship between firm size and firm performance is a key topic of a lot of scientific studies. These studies usually control other factors that affect the firm performance, mostly age and capital.""
+  - ""Most of studies focused on the link between firm size and performance applied linear regression model""
+  - ""The results showed that the larger firms reached higher economic performance compared with smaller ones.""
+  - ""The results for the best and the worst three companies are presented in Table 3""
+  - ""Then we used linear regression model to examine the relationship between economic performance of the company and its size.""
+  - ""We found that the firm size is the statistically significant factor explaining the differences in economic performance among firms in the sector of raising swine in the Czech Republic.""",,"- The paper primarily focuses on evaluating the effect of firm size on economic performance in the swine raising sector, which is not directly related to the question about econometric models used to assess firm performance.
+- The paper does use linear regression and multi-criteria evaluation (TOPSIS) to assess firm performance, which are relevant to the research question.
+- The paper mentions that linear regression is commonly used in studies examining the relationship between firm size and performance, which is relevant to the question.
+- The paper provides specific results from using these models, indicating their application in assessing firm performance.","  - ""The economic performance is assessed using multiple- criteria evaluation of alternatives methods where the selected coefficients of the profitability ratios, labour productivity and operating ratio are used as the indicator of economic performance.""
+  - ""To evaluate the economic performance of companies we use five financial ratios arranged into three groups:
+
+-Profitability ratio. EBITDA is computed as the sum of profit/loss before tax, interest expenses and depreciations of intangible and tangible assets.""
+  - ""Labour productivity. Labour productivity = Value added/Personnel expenses.""
+  - ""Operating ratio. Operating ratio = (Operating expenses -Depreciation)/(Revenues from sold goods + Production).""
+  - ""Indicators of profitability ratio are used as the measurement of financial performance. Labour productivity and operating ratio are a measure of operational performance.""
+  - ""ROE, ROA, ROS and labour productivity are MAXindicators which means that the higher value of this indicators implies the higher economic performance. Operating ratio is MIN-indicator.""","  - ""(Page 9, Table 1) |                         | Profitability ratios |                        |                        |                        | Labour productivity | Operating ratio |\n|-------------------------|----------------------|------------------------|------------------------|------------------------|---------------------|-----------------|\n|                         | ROA                  | ROE                    | ROS                    |                        |                     |                 |""","- The paper uses multiple-criteria evaluation of alternatives methods to assess economic performance, specifically focusing on profitability ratios, labour productivity, and operating ratio.
+- The profitability ratios include EBITDA, ROA, ROE, and ROS, which are used to measure financial performance.
+- Labour productivity is measured by the ratio of value added to personnel expenses, indicating operational performance.
+- The operating ratio is calculated as operating expenses minus depreciation divided by revenues from sold goods plus production, also an operational performance measure.
+- The paper categorizes these metrics into financial and operational performance indicators, with specific calculations and interpretations for each.
+- The tables at the end of the paper provide detailed statistics for these metrics, further supporting their use in evaluating economic performance."
+Analyzing Firm Performance in the Insurance Industry Using Frontier Efficiency and Productivity Methods,"J. Cummins, Mary A. Weiss",10.2139/ssrn.1997468,https://doi.org/10.2139/ssrn.1997468,-,221,2011,"Data envelopment analysis is the most frequently used methodology, employed by 59.5% of studies; stochastic frontier analysis and non-parametric frontier analysis are also prominent. The review covers 74 studies and 37 chapters in upper-tier journals.","- Stochastic frontier analysis using econometrics
+- Non-parametric frontier analysis using mathematical programming
+- Data envelopment analysis (DEA)","  - ""Of the 74 total studies, 59.5% utilize data envelopment analysis as the primary methodology.""
+  - ""The focus is on the two most prominent methodologies—stochastic frontier analysis using econometrics and non-parametric frontier analysis using mathematical programming.""
+  - ""This chapter reviews the modern frontier efficiency and productivity methodologies that have been developed to analyze firm performance, emphasizing applications to the insurance industry.""",,"- The abstract discusses methodologies used to analyze firm performance, specifically in the insurance industry, which is relevant to the research question about econometric models used to assess firm performance.
+- It highlights two prominent methodologies: stochastic frontier analysis and non-parametric frontier analysis, which are econometric models.
+- The abstract provides a quantitative measure of the frequency of use of these methodologies, noting that 59.5% of studies use data envelopment analysis, which is a non-parametric method.
+- The strength of the evidence is indicated by the number of studies reviewed (74) and the detailed review of 37 chapters in upper-tier journals.
+- The methodology of the source involves reviewing existing studies and methodologies, providing a comprehensive overview of the field.","  - ""The focus is on the two most prominent methodologies—stochastic frontier analysis using econometrics and non-parametric frontier analysis using mathematical programming.""
+  - ""Of the 74 total studies, 59.5% utilize data envelopment analysis as the primary methodology.""
+  - ""This chapter reviews the modern frontier efficiency and productivity methodologies that have been developed to analyze firm performance, emphasizing applications to the insurance industry.""
+  - ""The chapter considers the underlying theory of the methodologies as well as estimation techniques and the definition of inputs, outputs, and prices.""",,"- The abstract mentions two primary methodologies used in analyzing firm performance: stochastic frontier analysis and non-parametric frontier analysis.
+- Stochastic frontier analysis uses econometrics, which implies statistical models to measure efficiency.
+- Non-parametric frontier analysis uses mathematical programming, which involves computational methods to determine efficiency frontiers.
+- Data envelopment analysis (DEA) is specifically mentioned as the primary methodology used in 59.5% of the studies, which is a type of non-parametric frontier analysis.
+- The abstract does not explicitly mention other metrics or methodologies beyond these, but it does indicate a focus on these methods for efficiency and productivity analysis."
