@@ -105,5 +105,5 @@
 │ ├── publications.xlsx
 │ ├── metrics.csv
 │ └── metrics.xlsx
-└── README.md # Этот отчет
+└── README.md
 ```
