@@ -19,7 +19,7 @@
 ### Задание 1. Анализ портфеля проектов с использованием графов знаний (Knowledge Graphs)
 
 *   **Цель.** Продемонстрировать умение моделировать сложные управленческие взаимосвязи (проекты, менеджеры, инвестиции, результаты) в виде графа знаний и извлекать аналитические инсайты с помощью SPARQL-запросов.
-*   **Файл-шаблон для решения:** [`exam_task_1_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/exam/2025/exam_task_1_template.ipynb)
+*   **Файл-шаблон для решения:** [`exam_task_1_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/examp/2025/exam_task_1_template.ipynb)
 *   **Необходимые библиотеки:** `pandas`, `rdflib`, `pyvis`.
 
 ---
@@ -27,7 +27,7 @@
 ### Задание 2. Динамический веб-скрейпинг и анализ финансовых коэффициентов
 
 *   **Цель.** Продемонстрировать навыки извлечения данных с динамических веб-сайтов и проведения базового финансового анализа.
-*   **Файл-шаблон для решения:** [`exam_task_2_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/exam/2025/exam_task_2_template.ipynb)
+*   **Файл-шаблон для решения:** [`exam_task_2_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/examp/2025/exam_task_2_template.ipynb)
 *   **Необходимые библиотеки:** `playwright`, `pandas`, `matplotlib`.
 
 ---
@@ -35,7 +35,7 @@
 ### Задание 3. AI-ассистент в тематическом анализе и проектирование дашборда
 
 *   **Цель.** Продемонстрировать понимание методологии использования AI-ассистентов для анализа научной литературы и навыки проектирования аналитических дашбордов.
-*   **Файл-шаблон для решения:** [`exam_task_3_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/exam/2025/exam_task_3_template.ipynb)
+*   **Файл-шаблон для решения:** [`exam_task_3_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/examp/2025/exam_task_3_template.ipynb)
 *   **Необходимые библиотеки:** `pandas`.
 
 ---
@@ -43,7 +43,7 @@
 ### Задание 4. Сравнительный статистический анализ рыночных данных
 
 *   **Цель.** Применить методы описательной и корреляционной статистики для сравнения рыночной эффективности двух компаний-конкурентов.
-*   **Файл-шаблон для решения:** [`exam_task_4_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/exam/2025/exam_task_4_template.ipynb)
+*   **Файл-шаблон для решения:** [`exam_task_4_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/examp/2025/exam_task_4_template.ipynb)
 *   **Необходимые библиотеки:** `pandas`, `matplotlib`, `seaborn`.
 
 ---
@@ -51,7 +51,7 @@
 ### Задание 5. Прогнозное моделирование в HR-аналитике
 
 *   **Цель.** Продемонстрировать навыки построения и оценки простой модели машинного обучения для решения управленческой задачи (прогнозирование увольнения сотрудников).
-*   **Файл-шаблон для решения:** [`exam_task_5_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/exam/2025/exam_task_5_template.ipynb)
+*   **Файл-шаблон для решения:** [`exam_task_5_template.ipynb`](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/examp/2025/exam_task_5_template.ipynb)
 *   **Необходимые библиотеки:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
 
 ---
