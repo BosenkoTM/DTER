@@ -28,4 +28,4 @@
 
 Для подготовки к квалификационному экзамену, пожалуйста, ознакомьтесь со следующими материалами:
 
--   **[Перечень практических заданий и теоретических вопросов к экзамену](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/exam/2025/exam.md)**
+-   **[Перечень практических заданий и теоретических вопросов к экзамену](https://github.com/BosenkoTM/Digital-technologies-for-economic-research/blob/main/examp/2025/exam.md)**
